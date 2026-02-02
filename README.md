@@ -7,7 +7,6 @@ Bu program, NBA maçları için gelişmiş istatistiksel analizler sunan ve maç
 - **H2H (Aralarındaki Maçlar)**: İki takımın bu sezonki karşılaşmalarını analiz edin.
 - **Detaylı İstatistikler**: Çeyrek skorları ve takım liderleri.
 - **Sakatlık Raporu**: CBS Sports üzerinden anlık sakatlık durumlarını takip edin.
-- **Türkçe Rapor Çıktısı**: Bahis analizleri için hazır metin formatı.
 
 ## Kurulum
 1. Gerekli kütüphaneleri yükleyin:
