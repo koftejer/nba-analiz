@@ -1,4 +1,5778 @@
 {
-  "last_updated": "2026-04-27T12:19:30.385104+03:00",
-  "games": []
+  "last_updated": "2026-04-28T12:18:30.602712+03:00",
+  "games": [
+    {
+      "game_id": "0042500104",
+      "api_date": "2026-04-27",
+      "game_time": "8:00 pm ET",
+      "home": {
+        "id": 1610612753,
+        "name": "Orlando Magic",
+        "last10_logs": [
+          {
+            "game_id": "0042500104",
+            "date": "2026-04-27",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 94,
+            "opp_pts": 88,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500103",
+            "date": "2026-04-25",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 105,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500102",
+            "date": "2026-04-22",
+            "matchup": "ORL @ DET",
+            "is_home": false,
+            "wl": "L",
+            "pts": 83,
+            "opp_pts": 98,
+            "pts_1h": 46,
+            "opp_pts_1h": 46,
+            "q1": 21,
+            "q2": 25,
+            "q3": 16,
+            "q4": 21,
+            "opp_q1": 25,
+            "opp_q2": 21,
+            "opp_q3": 38,
+            "opp_q4": 14
+          },
+          {
+            "game_id": "0042500101",
+            "date": "2026-04-19",
+            "matchup": "ORL @ DET",
+            "is_home": false,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 101,
+            "pts_1h": 55,
+            "opp_pts_1h": 51,
+            "q1": 35,
+            "q2": 20,
+            "q3": 26,
+            "q4": 31,
+            "opp_q1": 27,
+            "opp_q2": 24,
+            "opp_q3": 23,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0052500201",
+            "date": "2026-04-17",
+            "matchup": "ORL vs. CHA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 121,
+            "opp_pts": 90,
+            "pts_1h": 68,
+            "opp_pts_1h": 37,
+            "q1": 38,
+            "q2": 30,
+            "q3": 34,
+            "q4": 19,
+            "opp_q1": 16,
+            "opp_q2": 21,
+            "opp_q3": 34,
+            "opp_q4": 19
+          },
+          {
+            "game_id": "0052500101",
+            "date": "2026-04-15",
+            "matchup": "ORL @ PHI",
+            "is_home": false,
+            "wl": "L",
+            "pts": 97,
+            "opp_pts": 109,
+            "pts_1h": 55,
+            "opp_pts_1h": 59,
+            "q1": 24,
+            "q2": 31,
+            "q3": 19,
+            "q4": 23,
+            "opp_q1": 28,
+            "opp_q2": 31,
+            "opp_q3": 20,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501186",
+            "date": "2026-04-12",
+            "matchup": "ORL @ BOS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 113,
+            "pts_1h": 61,
+            "opp_pts_1h": 52,
+            "q1": 29,
+            "q2": 32,
+            "q3": 20,
+            "q4": 27,
+            "opp_q1": 20,
+            "opp_q2": 32,
+            "opp_q3": 42,
+            "opp_q4": 19
+          },
+          {
+            "game_id": "0022501177",
+            "date": "2026-04-10",
+            "matchup": "ORL @ CHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 127,
+            "opp_pts": 103,
+            "pts_1h": 64,
+            "opp_pts_1h": 53,
+            "q1": 28,
+            "q2": 36,
+            "q3": 35,
+            "q4": 28,
+            "opp_q1": 26,
+            "opp_q2": 27,
+            "opp_q3": 26,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501159",
+            "date": "2026-04-08",
+            "matchup": "ORL vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 132,
+            "opp_pts": 120,
+            "pts_1h": 63,
+            "opp_pts_1h": 53,
+            "q1": 34,
+            "q2": 29,
+            "q3": 38,
+            "q4": 31,
+            "opp_q1": 32,
+            "opp_q2": 21,
+            "opp_q3": 30,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501144",
+            "date": "2026-04-06",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 123,
+            "opp_pts": 107,
+            "pts_1h": 69,
+            "opp_pts_1h": 55,
+            "q1": 30,
+            "q2": 39,
+            "q3": 29,
+            "q4": 25,
+            "opp_q1": 28,
+            "opp_q2": 27,
+            "opp_q3": 21,
+            "opp_q4": 31
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 111.0,
+          "pts_max": 132,
+          "pts_min": 83,
+          "pts_1h_avg": 60.1,
+          "pts_1h_max": 69,
+          "pts_1h_min": 46,
+          "wins": 7,
+          "wins_1h": 6,
+          "q1": 29.9,
+          "q2": 30.2,
+          "q3": 27.1,
+          "q4": 25.6,
+          "opp_q1": 25.2,
+          "opp_q2": 25.5,
+          "opp_q3": 29.2,
+          "opp_q4": 25.1
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Paolo Banchero",
+              "val": 22.2
+            },
+            {
+              "name": "Franz Wagner",
+              "val": 20.6
+            }
+          ],
+          "reb": [
+            {
+              "name": "Paolo Banchero",
+              "val": 8.4
+            },
+            {
+              "name": "Wendell Carter Jr.",
+              "val": 7.4
+            }
+          ],
+          "ast": [
+            {
+              "name": "Jalen Suggs",
+              "val": 5.5
+            },
+            {
+              "name": "Paolo Banchero",
+              "val": 5.2
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Franz Wagner",
+            "status": "Expected to be out until at least Apr 29"
+          },
+          {
+            "player": "Jonathan Isaac",
+            "status": "Expected to be out until at least Apr 29"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612765,
+        "name": "Detroit Pistons",
+        "last10_logs": [
+          {
+            "game_id": "0042500104",
+            "date": "2026-04-27",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 88,
+            "opp_pts": 94,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500103",
+            "date": "2026-04-25",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 113,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500102",
+            "date": "2026-04-22",
+            "matchup": "DET vs. ORL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 98,
+            "opp_pts": 83,
+            "pts_1h": 46,
+            "opp_pts_1h": 46,
+            "q1": 25,
+            "q2": 21,
+            "q3": 38,
+            "q4": 14,
+            "opp_q1": 21,
+            "opp_q2": 25,
+            "opp_q3": 16,
+            "opp_q4": 21
+          },
+          {
+            "game_id": "0042500101",
+            "date": "2026-04-19",
+            "matchup": "DET vs. ORL",
+            "is_home": true,
+            "wl": "L",
+            "pts": 101,
+            "opp_pts": 112,
+            "pts_1h": 51,
+            "opp_pts_1h": 55,
+            "q1": 27,
+            "q2": 24,
+            "q3": 23,
+            "q4": 27,
+            "opp_q1": 35,
+            "opp_q2": 20,
+            "opp_q3": 26,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501188",
+            "date": "2026-04-12",
+            "matchup": "DET @ IND",
+            "is_home": false,
+            "wl": "W",
+            "pts": 133,
+            "opp_pts": 121,
+            "pts_1h": 81,
+            "opp_pts_1h": 63,
+            "q1": 41,
+            "q2": 40,
+            "q3": 27,
+            "q4": 25,
+            "opp_q1": 27,
+            "opp_q2": 36,
+            "opp_q3": 26,
+            "opp_q4": 32
+          },
+          {
+            "game_id": "0022501171",
+            "date": "2026-04-10",
+            "matchup": "DET @ CHA",
+            "is_home": false,
+            "wl": "W",
+            "pts": 118,
+            "opp_pts": 100,
+            "pts_1h": 68,
+            "opp_pts_1h": 65,
+            "q1": 36,
+            "q2": 32,
+            "q3": 25,
+            "q4": 25,
+            "opp_q1": 30,
+            "opp_q2": 35,
+            "opp_q3": 25,
+            "opp_q4": 10
+          },
+          {
+            "game_id": "0022501160",
+            "date": "2026-04-08",
+            "matchup": "DET vs. MIL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 137,
+            "opp_pts": 111,
+            "pts_1h": 75,
+            "opp_pts_1h": 57,
+            "q1": 34,
+            "q2": 41,
+            "q3": 37,
+            "q4": 25,
+            "opp_q1": 28,
+            "opp_q2": 29,
+            "opp_q3": 29,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501144",
+            "date": "2026-04-06",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 123,
+            "pts_1h": 55,
+            "opp_pts_1h": 69,
+            "q1": 28,
+            "q2": 27,
+            "q3": 21,
+            "q4": 31,
+            "opp_q1": 30,
+            "opp_q2": 39,
+            "opp_q3": 29,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501131",
+            "date": "2026-04-04",
+            "matchup": "DET @ PHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 116,
+            "opp_pts": 93,
+            "pts_1h": 71,
+            "opp_pts_1h": 60,
+            "q1": 41,
+            "q2": 30,
+            "q3": 24,
+            "q4": 21,
+            "opp_q1": 31,
+            "opp_q2": 29,
+            "opp_q3": 21,
+            "opp_q4": 12
+          },
+          {
+            "game_id": "0022501115",
+            "date": "2026-04-02",
+            "matchup": "DET vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 108,
+            "pts_1h": 54,
+            "opp_pts_1h": 54,
+            "q1": 30,
+            "q2": 24,
+            "q3": 25,
+            "q4": 34,
+            "opp_q1": 31,
+            "opp_q2": 23,
+            "opp_q3": 26,
+            "opp_q4": 28
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 111.6,
+          "pts_max": 137,
+          "pts_min": 88,
+          "pts_1h_avg": 62.6,
+          "pts_1h_max": 81,
+          "pts_1h_min": 46,
+          "wins": 6,
+          "wins_1h": 4,
+          "q1": 32.8,
+          "q2": 29.9,
+          "q3": 27.5,
+          "q4": 25.2,
+          "opp_q1": 29.1,
+          "opp_q2": 29.5,
+          "opp_q3": 24.8,
+          "opp_q4": 23.0
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Cade Cunningham",
+              "val": 23.9
+            },
+            {
+              "name": "Jalen Duren",
+              "val": 19.5
+            }
+          ],
+          "reb": [
+            {
+              "name": "Jalen Duren",
+              "val": 10.5
+            },
+            {
+              "name": "Ausar Thompson",
+              "val": 5.7
+            }
+          ],
+          "ast": [
+            {
+              "name": "Cade Cunningham",
+              "val": 9.9
+            },
+            {
+              "name": "Daniss Jenkins",
+              "val": 3.9
+            }
+          ]
+        },
+        "injuries": []
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-27",
+          "t1_pts": 94,
+          "t2_pts": 88,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-25",
+          "t1_pts": 113,
+          "t2_pts": 105,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-22",
+          "t1_pts": 83,
+          "t2_pts": 98,
+          "t1_1h": 46,
+          "t2_1h": 46
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 112,
+          "t2_pts": 101,
+          "t1_1h": 55,
+          "t2_1h": 51
+        },
+        {
+          "date": "2026-04-06",
+          "t1_pts": 123,
+          "t2_pts": 107,
+          "t1_1h": 69,
+          "t2_1h": 55
+        },
+        {
+          "date": "2026-03-01",
+          "t1_pts": 92,
+          "t2_pts": 106,
+          "t1_1h": 57,
+          "t2_1h": 50
+        },
+        {
+          "date": "2025-11-28",
+          "t1_pts": 112,
+          "t2_pts": 109,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-29",
+          "t1_pts": 116,
+          "t2_pts": 135,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 105.6,
+        "visitor_avg": 106.1
+      }
+    },
+    {
+      "game_id": "0042500144",
+      "api_date": "2026-04-27",
+      "game_time": "9:30 pm ET",
+      "home": {
+        "id": 1610612756,
+        "name": "Phoenix Suns",
+        "last10_logs": [
+          {
+            "game_id": "0042500144",
+            "date": "2026-04-27",
+            "matchup": "PHX vs. OKC",
+            "is_home": true,
+            "wl": "L",
+            "pts": 122,
+            "opp_pts": 131,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500143",
+            "date": "2026-04-25",
+            "matchup": "PHX vs. OKC",
+            "is_home": true,
+            "wl": "L",
+            "pts": 109,
+            "opp_pts": 121,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500142",
+            "date": "2026-04-22",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 120,
+            "pts_1h": 57,
+            "opp_pts_1h": 65,
+            "q1": 29,
+            "q2": 28,
+            "q3": 20,
+            "q4": 30,
+            "opp_q1": 30,
+            "opp_q2": 35,
+            "opp_q3": 35,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0042500141",
+            "date": "2026-04-19",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "L",
+            "pts": 84,
+            "opp_pts": 119,
+            "pts_1h": 44,
+            "opp_pts_1h": 65,
+            "q1": 20,
+            "q2": 24,
+            "q3": 22,
+            "q4": 18,
+            "opp_q1": 35,
+            "opp_q2": 30,
+            "opp_q3": 32,
+            "opp_q4": 22
+          },
+          {
+            "game_id": "0052500211",
+            "date": "2026-04-17",
+            "matchup": "PHX vs. GSW",
+            "is_home": true,
+            "wl": "W",
+            "pts": 111,
+            "opp_pts": 96,
+            "pts_1h": 50,
+            "opp_pts_1h": 45,
+            "q1": 33,
+            "q2": 17,
+            "q3": 28,
+            "q4": 33,
+            "opp_q1": 15,
+            "opp_q2": 30,
+            "opp_q3": 24,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0052500121",
+            "date": "2026-04-14",
+            "matchup": "PHX vs. POR",
+            "is_home": true,
+            "wl": "L",
+            "pts": 110,
+            "opp_pts": 114,
+            "pts_1h": 62,
+            "opp_pts_1h": 65,
+            "q1": 33,
+            "q2": 29,
+            "q3": 20,
+            "q4": 28,
+            "opp_q1": 31,
+            "opp_q2": 34,
+            "opp_q3": 18,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501196",
+            "date": "2026-04-12",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "W",
+            "pts": 135,
+            "opp_pts": 103,
+            "pts_1h": 70,
+            "opp_pts_1h": 52,
+            "q1": 37,
+            "q2": 33,
+            "q3": 34,
+            "q4": 31,
+            "opp_q1": 19,
+            "opp_q2": 33,
+            "opp_q3": 25,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501185",
+            "date": "2026-04-10",
+            "matchup": "PHX @ LAL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 73,
+            "opp_pts": 101,
+            "pts_1h": 48,
+            "opp_pts_1h": 57,
+            "q1": 24,
+            "q2": 24,
+            "q3": 16,
+            "q4": 9,
+            "opp_q1": 33,
+            "opp_q2": 24,
+            "opp_q3": 24,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0022501164",
+            "date": "2026-04-08",
+            "matchup": "PHX vs. DAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 107,
+            "pts_1h": 61,
+            "opp_pts_1h": 53,
+            "q1": 33,
+            "q2": 28,
+            "q3": 27,
+            "q4": 24,
+            "opp_q1": 29,
+            "opp_q2": 24,
+            "opp_q3": 27,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501157",
+            "date": "2026-04-07",
+            "matchup": "PHX vs. HOU",
+            "is_home": true,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 119,
+            "pts_1h": 57,
+            "opp_pts_1h": 54,
+            "q1": 37,
+            "q2": 20,
+            "q3": 27,
+            "q4": 21,
+            "opp_q1": 21,
+            "opp_q2": 33,
+            "opp_q3": 27,
+            "opp_q4": 38
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 106.8,
+          "pts_max": 135,
+          "pts_min": 73,
+          "pts_1h_avg": 56.1,
+          "pts_1h_max": 70,
+          "pts_1h_min": 44,
+          "wins": 3,
+          "wins_1h": 4,
+          "q1": 30.8,
+          "q2": 25.4,
+          "q3": 24.2,
+          "q4": 24.2,
+          "opp_q1": 26.6,
+          "opp_q2": 30.4,
+          "opp_q3": 26.5,
+          "opp_q4": 26.4
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Devin Booker",
+              "val": 26.1
+            },
+            {
+              "name": "Dillon Brooks",
+              "val": 20.2
+            }
+          ],
+          "reb": [
+            {
+              "name": "Mark Williams",
+              "val": 8.0
+            },
+            {
+              "name": "Oso Ighodaro",
+              "val": 5.1
+            }
+          ],
+          "ast": [
+            {
+              "name": "Devin Booker",
+              "val": 6.0
+            },
+            {
+              "name": "Collin Gillespie",
+              "val": 4.6
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Jordan Goodwin",
+            "status": "Expected to be out until at least Apr 29"
+          },
+          {
+            "player": "Mark Williams",
+            "status": "Expected to be out until at least Apr 29"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612760,
+        "name": "Oklahoma City Thunder",
+        "last10_logs": [
+          {
+            "game_id": "0042500144",
+            "date": "2026-04-27",
+            "matchup": "OKC @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 131,
+            "opp_pts": 122,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500143",
+            "date": "2026-04-25",
+            "matchup": "OKC @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 121,
+            "opp_pts": 109,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500142",
+            "date": "2026-04-22",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "W",
+            "pts": 120,
+            "opp_pts": 107,
+            "pts_1h": 65,
+            "opp_pts_1h": 57,
+            "q1": 30,
+            "q2": 35,
+            "q3": 35,
+            "q4": 20,
+            "opp_q1": 29,
+            "opp_q2": 28,
+            "opp_q3": 20,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0042500141",
+            "date": "2026-04-19",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "W",
+            "pts": 119,
+            "opp_pts": 84,
+            "pts_1h": 65,
+            "opp_pts_1h": 44,
+            "q1": 35,
+            "q2": 30,
+            "q3": 32,
+            "q4": 22,
+            "opp_q1": 20,
+            "opp_q2": 24,
+            "opp_q3": 22,
+            "opp_q4": 18
+          },
+          {
+            "game_id": "0022501196",
+            "date": "2026-04-12",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "L",
+            "pts": 103,
+            "opp_pts": 135,
+            "pts_1h": 52,
+            "opp_pts_1h": 70,
+            "q1": 19,
+            "q2": 33,
+            "q3": 25,
+            "q4": 26,
+            "opp_q1": 37,
+            "opp_q2": 33,
+            "opp_q3": 34,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501182",
+            "date": "2026-04-10",
+            "matchup": "OKC @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 127,
+            "pts_1h": 51,
+            "opp_pts_1h": 59,
+            "q1": 27,
+            "q2": 24,
+            "q3": 34,
+            "q4": 22,
+            "opp_q1": 34,
+            "opp_q2": 25,
+            "opp_q3": 31,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501163",
+            "date": "2026-04-08",
+            "matchup": "OKC @ LAC",
+            "is_home": false,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 110,
+            "pts_1h": 69,
+            "opp_pts_1h": 49,
+            "q1": 34,
+            "q2": 35,
+            "q3": 25,
+            "q4": 34,
+            "opp_q1": 23,
+            "opp_q2": 26,
+            "opp_q3": 31,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501155",
+            "date": "2026-04-07",
+            "matchup": "OKC @ LAL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 123,
+            "opp_pts": 87,
+            "pts_1h": 65,
+            "opp_pts_1h": 47,
+            "q1": 34,
+            "q2": 31,
+            "q3": 28,
+            "q4": 30,
+            "opp_q1": 27,
+            "opp_q2": 20,
+            "opp_q3": 15,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501139",
+            "date": "2026-04-05",
+            "matchup": "OKC vs. UTA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 146,
+            "opp_pts": 111,
+            "pts_1h": 75,
+            "opp_pts_1h": 54,
+            "q1": 40,
+            "q2": 35,
+            "q3": 33,
+            "q4": 38,
+            "opp_q1": 25,
+            "opp_q2": 29,
+            "opp_q3": 27,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501116",
+            "date": "2026-04-02",
+            "matchup": "OKC vs. LAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 139,
+            "opp_pts": 96,
+            "pts_1h": 82,
+            "opp_pts_1h": 51,
+            "q1": 44,
+            "q2": 38,
+            "q3": 30,
+            "q4": 27,
+            "opp_q1": 21,
+            "opp_q2": 30,
+            "opp_q3": 16,
+            "opp_q4": 29
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 123.7,
+          "pts_max": 146,
+          "pts_min": 103,
+          "pts_1h_avg": 65.5,
+          "pts_1h_max": 82,
+          "pts_1h_min": 51,
+          "wins": 8,
+          "wins_1h": 6,
+          "q1": 32.9,
+          "q2": 32.6,
+          "q3": 30.2,
+          "q4": 27.4,
+          "opp_q1": 27.0,
+          "opp_q2": 26.9,
+          "opp_q3": 24.5,
+          "opp_q4": 28.8
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Shai Gilgeous-Alexander",
+              "val": 31.1
+            },
+            {
+              "name": "Chet Holmgren",
+              "val": 17.1
+            }
+          ],
+          "reb": [
+            {
+              "name": "Isaiah Hartenstein",
+              "val": 9.4
+            },
+            {
+              "name": "Chet Holmgren",
+              "val": 8.9
+            }
+          ],
+          "ast": [
+            {
+              "name": "Shai Gilgeous-Alexander",
+              "val": 6.6
+            },
+            {
+              "name": "Jalen Williams",
+              "val": 5.5
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Jalen Williams",
+            "status": "Expected to be out until at least May 1"
+          },
+          {
+            "player": "Thomas Sorber",
+            "status": "Expected to be out until at least Oct 1"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-27",
+          "t1_pts": 122,
+          "t2_pts": 131,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-25",
+          "t1_pts": 109,
+          "t2_pts": 121,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-22",
+          "t1_pts": 107,
+          "t2_pts": 120,
+          "t1_1h": 57,
+          "t2_1h": 65
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 84,
+          "t2_pts": 119,
+          "t1_1h": 44,
+          "t2_1h": 65
+        },
+        {
+          "date": "2026-04-12",
+          "t1_pts": 135,
+          "t2_pts": 103,
+          "t1_1h": 70,
+          "t2_1h": 52
+        },
+        {
+          "date": "2026-02-11",
+          "t1_pts": 109,
+          "t2_pts": 136,
+          "t1_1h": 52,
+          "t2_1h": 75
+        },
+        {
+          "date": "2026-01-04",
+          "t1_pts": 108,
+          "t2_pts": 105,
+          "t1_1h": 42,
+          "t2_1h": 49
+        },
+        {
+          "date": "2025-12-10",
+          "t1_pts": 89,
+          "t2_pts": 138,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-11-28",
+          "t1_pts": 119,
+          "t2_pts": 123,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 109.1,
+        "visitor_avg": 121.8
+      }
+    },
+    {
+      "game_id": "0042500165",
+      "api_date": "2026-04-27",
+      "game_time": "10:30 pm ET",
+      "home": {
+        "id": 1610612743,
+        "name": "Denver Nuggets",
+        "last10_logs": [
+          {
+            "game_id": "0042500165",
+            "date": "2026-04-27",
+            "matchup": "DEN vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 125,
+            "opp_pts": 113,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500164",
+            "date": "2026-04-25",
+            "matchup": "DEN @ MIN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 112,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500163",
+            "date": "2026-04-23",
+            "matchup": "DEN @ MIN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 113,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500162",
+            "date": "2026-04-20",
+            "matchup": "DEN vs. MIN",
+            "is_home": true,
+            "wl": "L",
+            "pts": 114,
+            "opp_pts": 119,
+            "pts_1h": 64,
+            "opp_pts_1h": 64,
+            "q1": 39,
+            "q2": 25,
+            "q3": 29,
+            "q4": 21,
+            "opp_q1": 25,
+            "opp_q2": 39,
+            "opp_q3": 26,
+            "opp_q4": 29
+          },
+          {
+            "game_id": "0042500161",
+            "date": "2026-04-18",
+            "matchup": "DEN vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 116,
+            "opp_pts": 105,
+            "pts_1h": 62,
+            "opp_pts_1h": 62,
+            "q1": 23,
+            "q2": 39,
+            "q3": 29,
+            "q4": 25,
+            "opp_q1": 33,
+            "opp_q2": 29,
+            "opp_q3": 17,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501197",
+            "date": "2026-04-12",
+            "matchup": "DEN @ SAS",
+            "is_home": false,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 118,
+            "pts_1h": 70,
+            "opp_pts_1h": 56,
+            "q1": 37,
+            "q2": 33,
+            "q3": 31,
+            "q4": 27,
+            "opp_q1": 34,
+            "opp_q2": 22,
+            "opp_q3": 35,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501182",
+            "date": "2026-04-10",
+            "matchup": "DEN vs. OKC",
+            "is_home": true,
+            "wl": "W",
+            "pts": 127,
+            "opp_pts": 107,
+            "pts_1h": 59,
+            "opp_pts_1h": 51,
+            "q1": 34,
+            "q2": 25,
+            "q3": 31,
+            "q4": 37,
+            "opp_q1": 27,
+            "opp_q2": 24,
+            "opp_q3": 34,
+            "opp_q4": 22
+          },
+          {
+            "game_id": "0022501162",
+            "date": "2026-04-08",
+            "matchup": "DEN vs. MEM",
+            "is_home": true,
+            "wl": "W",
+            "pts": 136,
+            "opp_pts": 119,
+            "pts_1h": 68,
+            "opp_pts_1h": 72,
+            "q1": 37,
+            "q2": 31,
+            "q3": 39,
+            "q4": 29,
+            "opp_q1": 33,
+            "opp_q2": 39,
+            "opp_q3": 22,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501147",
+            "date": "2026-04-06",
+            "matchup": "DEN vs. POR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 137,
+            "opp_pts": 132,
+            "pts_1h": 58,
+            "opp_pts_1h": 72,
+            "q1": 31,
+            "q2": 27,
+            "q3": 29,
+            "q4": 38,
+            "opp_q1": 35,
+            "opp_q2": 37,
+            "opp_q3": 29,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501130",
+            "date": "2026-04-04",
+            "matchup": "DEN vs. SAS",
+            "is_home": true,
+            "wl": "W",
+            "pts": 136,
+            "opp_pts": 134,
+            "pts_1h": 65,
+            "opp_pts_1h": 72,
+            "q1": 36,
+            "q2": 29,
+            "q3": 27,
+            "q4": 32,
+            "opp_q1": 43,
+            "opp_q2": 29,
+            "opp_q3": 24,
+            "opp_q4": 28
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 121.1,
+          "pts_max": 137,
+          "pts_min": 96,
+          "pts_1h_avg": 63.7,
+          "pts_1h_max": 70,
+          "pts_1h_min": 58,
+          "wins": 7,
+          "wins_1h": 2,
+          "q1": 33.9,
+          "q2": 29.9,
+          "q3": 30.7,
+          "q4": 29.9,
+          "opp_q1": 32.9,
+          "opp_q2": 31.3,
+          "opp_q3": 26.7,
+          "opp_q4": 25.9
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Nikola Jokić",
+              "val": 27.7
+            },
+            {
+              "name": "Jamal Murray",
+              "val": 25.4
+            }
+          ],
+          "reb": [
+            {
+              "name": "Nikola Jokić",
+              "val": 12.9
+            },
+            {
+              "name": "Aaron Gordon",
+              "val": 5.8
+            }
+          ],
+          "ast": [
+            {
+              "name": "Nikola Jokić",
+              "val": 10.7
+            },
+            {
+              "name": "Jamal Murray",
+              "val": 7.1
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Aaron Gordon",
+            "status": "Expected to be out until at least Apr 30"
+          },
+          {
+            "player": "Peyton Watson",
+            "status": "Expected to be out until at least Apr 30"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612750,
+        "name": "Minnesota Timberwolves",
+        "last10_logs": [
+          {
+            "game_id": "0042500165",
+            "date": "2026-04-27",
+            "matchup": "MIN @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 113,
+            "opp_pts": 125,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500164",
+            "date": "2026-04-25",
+            "matchup": "MIN vs. DEN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 96,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500163",
+            "date": "2026-04-23",
+            "matchup": "MIN vs. DEN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 96,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500162",
+            "date": "2026-04-20",
+            "matchup": "MIN @ DEN",
+            "is_home": false,
+            "wl": "W",
+            "pts": 119,
+            "opp_pts": 114,
+            "pts_1h": 64,
+            "opp_pts_1h": 64,
+            "q1": 25,
+            "q2": 39,
+            "q3": 26,
+            "q4": 29,
+            "opp_q1": 39,
+            "opp_q2": 25,
+            "opp_q3": 29,
+            "opp_q4": 21
+          },
+          {
+            "game_id": "0042500161",
+            "date": "2026-04-18",
+            "matchup": "MIN @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 116,
+            "pts_1h": 62,
+            "opp_pts_1h": 62,
+            "q1": 33,
+            "q2": 29,
+            "q3": 17,
+            "q4": 26,
+            "opp_q1": 23,
+            "opp_q2": 39,
+            "opp_q3": 29,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501195",
+            "date": "2026-04-12",
+            "matchup": "MIN vs. NOP",
+            "is_home": true,
+            "wl": "W",
+            "pts": 132,
+            "opp_pts": 126,
+            "pts_1h": 73,
+            "opp_pts_1h": 59,
+            "q1": 34,
+            "q2": 39,
+            "q3": 24,
+            "q4": 35,
+            "opp_q1": 24,
+            "opp_q2": 35,
+            "opp_q3": 31,
+            "opp_q4": 36
+          },
+          {
+            "game_id": "0022501178",
+            "date": "2026-04-10",
+            "matchup": "MIN @ HOU",
+            "is_home": false,
+            "wl": "W",
+            "pts": 136,
+            "opp_pts": 132,
+            "pts_1h": 69,
+            "opp_pts_1h": 73,
+            "q1": 37,
+            "q2": 32,
+            "q3": 34,
+            "q4": 33,
+            "opp_q1": 36,
+            "opp_q2": 37,
+            "opp_q3": 33,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501159",
+            "date": "2026-04-08",
+            "matchup": "MIN @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 120,
+            "opp_pts": 132,
+            "pts_1h": 53,
+            "opp_pts_1h": 63,
+            "q1": 32,
+            "q2": 21,
+            "q3": 30,
+            "q4": 37,
+            "opp_q1": 34,
+            "opp_q2": 29,
+            "opp_q3": 38,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501152",
+            "date": "2026-04-07",
+            "matchup": "MIN @ IND",
+            "is_home": false,
+            "wl": "W",
+            "pts": 124,
+            "opp_pts": 104,
+            "pts_1h": 63,
+            "opp_pts_1h": 53,
+            "q1": 35,
+            "q2": 28,
+            "q3": 39,
+            "q4": 22,
+            "opp_q1": 27,
+            "opp_q2": 26,
+            "opp_q3": 24,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501137",
+            "date": "2026-04-05",
+            "matchup": "MIN vs. CHA",
+            "is_home": true,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 122,
+            "pts_1h": 60,
+            "opp_pts_1h": 55,
+            "q1": 21,
+            "q2": 39,
+            "q3": 19,
+            "q4": 29,
+            "opp_q1": 29,
+            "opp_q2": 26,
+            "opp_q3": 34,
+            "opp_q4": 33
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 118.2,
+          "pts_max": 136,
+          "pts_min": 105,
+          "pts_1h_avg": 63.4,
+          "pts_1h_max": 73,
+          "pts_1h_min": 53,
+          "wins": 6,
+          "wins_1h": 3,
+          "q1": 31.0,
+          "q2": 32.4,
+          "q3": 27.0,
+          "q4": 30.1,
+          "opp_q1": 30.3,
+          "opp_q2": 31.0,
+          "opp_q3": 31.1,
+          "opp_q4": 28.4
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Anthony Edwards",
+              "val": 28.8
+            },
+            {
+              "name": "Julius Randle",
+              "val": 21.1
+            }
+          ],
+          "reb": [
+            {
+              "name": "Rudy Gobert",
+              "val": 11.5
+            },
+            {
+              "name": "Julius Randle",
+              "val": 6.7
+            }
+          ],
+          "ast": [
+            {
+              "name": "Julius Randle",
+              "val": 5.0
+            },
+            {
+              "name": "Donte DiVincenzo",
+              "val": 3.8
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Anthony Edwards",
+            "status": "Expected to be out until at least May 9"
+          },
+          {
+            "player": "Donte DiVincenzo",
+            "status": "Expected to be out until at least Apr 1"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-27",
+          "t1_pts": 125,
+          "t2_pts": 113,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-25",
+          "t1_pts": 96,
+          "t2_pts": 112,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-23",
+          "t1_pts": 96,
+          "t2_pts": 113,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-20",
+          "t1_pts": 114,
+          "t2_pts": 119,
+          "t1_1h": 64,
+          "t2_1h": 64
+        },
+        {
+          "date": "2026-04-18",
+          "t1_pts": 116,
+          "t2_pts": 105,
+          "t1_1h": 62,
+          "t2_1h": 62
+        },
+        {
+          "date": "2026-03-01",
+          "t1_pts": 108,
+          "t2_pts": 117,
+          "t1_1h": 50,
+          "t2_1h": 58
+        },
+        {
+          "date": "2025-12-25",
+          "t1_pts": 142,
+          "t2_pts": 138,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-11-15",
+          "t1_pts": 123,
+          "t2_pts": 112,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-27",
+          "t1_pts": 127,
+          "t2_pts": 114,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-04",
+          "t1_pts": 116,
+          "t2_pts": 126,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 116.3,
+        "visitor_avg": 116.9
+      }
+    },
+    {
+      "game_id": "0042500115",
+      "api_date": "2026-04-28",
+      "game_time": "7:00 pm ET",
+      "home": {
+        "id": 1610612738,
+        "name": "Boston Celtics",
+        "last10_logs": [
+          {
+            "game_id": "0042500114",
+            "date": "2026-04-26",
+            "matchup": "BOS @ PHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 96,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500113",
+            "date": "2026-04-24",
+            "matchup": "BOS @ PHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 108,
+            "opp_pts": 100,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500112",
+            "date": "2026-04-21",
+            "matchup": "BOS vs. PHI",
+            "is_home": true,
+            "wl": "L",
+            "pts": 97,
+            "opp_pts": 111,
+            "pts_1h": 54,
+            "opp_pts_1h": 62,
+            "q1": 28,
+            "q2": 26,
+            "q3": 23,
+            "q4": 20,
+            "opp_q1": 25,
+            "opp_q2": 37,
+            "opp_q3": 22,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0042500111",
+            "date": "2026-04-19",
+            "matchup": "BOS vs. PHI",
+            "is_home": true,
+            "wl": "W",
+            "pts": 123,
+            "opp_pts": 91,
+            "pts_1h": 64,
+            "opp_pts_1h": 46,
+            "q1": 33,
+            "q2": 31,
+            "q3": 31,
+            "q4": 28,
+            "opp_q1": 18,
+            "opp_q2": 28,
+            "opp_q3": 25,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0022501186",
+            "date": "2026-04-12",
+            "matchup": "BOS vs. ORL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 108,
+            "pts_1h": 52,
+            "opp_pts_1h": 61,
+            "q1": 20,
+            "q2": 32,
+            "q3": 42,
+            "q4": 19,
+            "opp_q1": 29,
+            "opp_q2": 32,
+            "opp_q3": 20,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501174",
+            "date": "2026-04-10",
+            "matchup": "BOS vs. NOP",
+            "is_home": true,
+            "wl": "W",
+            "pts": 144,
+            "opp_pts": 118,
+            "pts_1h": 82,
+            "opp_pts_1h": 51,
+            "q1": 44,
+            "q2": 38,
+            "q3": 34,
+            "q4": 28,
+            "opp_q1": 25,
+            "opp_q2": 26,
+            "opp_q3": 31,
+            "opp_q4": 36
+          },
+          {
+            "game_id": "0022501168",
+            "date": "2026-04-09",
+            "matchup": "BOS @ NYK",
+            "is_home": false,
+            "wl": "L",
+            "pts": 106,
+            "opp_pts": 112,
+            "pts_1h": 53,
+            "opp_pts_1h": 54,
+            "q1": 29,
+            "q2": 24,
+            "q3": 30,
+            "q4": 23,
+            "opp_q1": 26,
+            "opp_q2": 28,
+            "opp_q3": 27,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501149",
+            "date": "2026-04-07",
+            "matchup": "BOS vs. CHA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 102,
+            "pts_1h": 55,
+            "opp_pts_1h": 61,
+            "q1": 20,
+            "q2": 35,
+            "q3": 35,
+            "q4": 23,
+            "opp_q1": 31,
+            "opp_q2": 30,
+            "opp_q3": 26,
+            "opp_q4": 15
+          },
+          {
+            "game_id": "0022501132",
+            "date": "2026-04-05",
+            "matchup": "BOS vs. TOR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 115,
+            "opp_pts": 101,
+            "pts_1h": 54,
+            "opp_pts_1h": 46,
+            "q1": 26,
+            "q2": 28,
+            "q3": 26,
+            "q4": 35,
+            "opp_q1": 26,
+            "opp_q2": 20,
+            "opp_q3": 31,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501126",
+            "date": "2026-04-03",
+            "matchup": "BOS @ MIL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 133,
+            "opp_pts": 101,
+            "pts_1h": 75,
+            "opp_pts_1h": 55,
+            "q1": 43,
+            "q2": 32,
+            "q3": 30,
+            "q4": 28,
+            "opp_q1": 26,
+            "opp_q2": 29,
+            "opp_q3": 21,
+            "opp_q4": 25
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 118.0,
+          "pts_max": 144,
+          "pts_min": 97,
+          "pts_1h_avg": 61.1,
+          "pts_1h_max": 82,
+          "pts_1h_min": 52,
+          "wins": 8,
+          "wins_1h": 4,
+          "q1": 30.4,
+          "q2": 30.8,
+          "q3": 31.4,
+          "q4": 25.5,
+          "opp_q1": 25.8,
+          "opp_q2": 28.8,
+          "opp_q3": 25.4,
+          "opp_q4": 25.6
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Jaylen Brown",
+              "val": 28.7
+            },
+            {
+              "name": "Jayson Tatum",
+              "val": 21.8
+            }
+          ],
+          "reb": [
+            {
+              "name": "Jayson Tatum",
+              "val": 10.0
+            },
+            {
+              "name": "Neemias Queta",
+              "val": 8.4
+            }
+          ],
+          "ast": [
+            {
+              "name": "Derrick White",
+              "val": 5.4
+            },
+            {
+              "name": "Jayson Tatum",
+              "val": 5.3
+            }
+          ]
+        },
+        "injuries": []
+      },
+      "visitor": {
+        "id": 1610612755,
+        "name": "Philadelphia 76ers",
+        "last10_logs": [
+          {
+            "game_id": "0042500114",
+            "date": "2026-04-26",
+            "matchup": "PHI vs. BOS",
+            "is_home": true,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 128,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500113",
+            "date": "2026-04-24",
+            "matchup": "PHI vs. BOS",
+            "is_home": true,
+            "wl": "L",
+            "pts": 100,
+            "opp_pts": 108,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500112",
+            "date": "2026-04-21",
+            "matchup": "PHI @ BOS",
+            "is_home": false,
+            "wl": "W",
+            "pts": 111,
+            "opp_pts": 97,
+            "pts_1h": 62,
+            "opp_pts_1h": 54,
+            "q1": 25,
+            "q2": 37,
+            "q3": 22,
+            "q4": 27,
+            "opp_q1": 28,
+            "opp_q2": 26,
+            "opp_q3": 23,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0042500111",
+            "date": "2026-04-19",
+            "matchup": "PHI @ BOS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 91,
+            "opp_pts": 123,
+            "pts_1h": 46,
+            "opp_pts_1h": 64,
+            "q1": 18,
+            "q2": 28,
+            "q3": 25,
+            "q4": 20,
+            "opp_q1": 33,
+            "opp_q2": 31,
+            "opp_q3": 31,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0052500101",
+            "date": "2026-04-15",
+            "matchup": "PHI vs. ORL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 109,
+            "opp_pts": 97,
+            "pts_1h": 59,
+            "opp_pts_1h": 55,
+            "q1": 28,
+            "q2": 31,
+            "q3": 20,
+            "q4": 30,
+            "opp_q1": 24,
+            "opp_q2": 31,
+            "opp_q3": 19,
+            "opp_q4": 23
+          },
+          {
+            "game_id": "0022501191",
+            "date": "2026-04-12",
+            "matchup": "PHI vs. MIL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 126,
+            "opp_pts": 106,
+            "pts_1h": 58,
+            "opp_pts_1h": 62,
+            "q1": 29,
+            "q2": 29,
+            "q3": 38,
+            "q4": 30,
+            "opp_q1": 26,
+            "opp_q2": 36,
+            "opp_q3": 16,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0022501175",
+            "date": "2026-04-10",
+            "matchup": "PHI @ IND",
+            "is_home": false,
+            "wl": "W",
+            "pts": 105,
+            "opp_pts": 94,
+            "pts_1h": 58,
+            "opp_pts_1h": 51,
+            "q1": 28,
+            "q2": 30,
+            "q3": 31,
+            "q4": 16,
+            "opp_q1": 21,
+            "opp_q2": 30,
+            "opp_q3": 26,
+            "opp_q4": 17
+          },
+          {
+            "game_id": "0022501169",
+            "date": "2026-04-09",
+            "matchup": "PHI @ HOU",
+            "is_home": false,
+            "wl": "L",
+            "pts": 102,
+            "opp_pts": 113,
+            "pts_1h": 56,
+            "opp_pts_1h": 73,
+            "q1": 26,
+            "q2": 30,
+            "q3": 17,
+            "q4": 29,
+            "opp_q1": 35,
+            "opp_q2": 38,
+            "opp_q3": 23,
+            "opp_q4": 17
+          },
+          {
+            "game_id": "0022501146",
+            "date": "2026-04-06",
+            "matchup": "PHI @ SAS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 102,
+            "opp_pts": 115,
+            "pts_1h": 55,
+            "opp_pts_1h": 62,
+            "q1": 28,
+            "q2": 27,
+            "q3": 30,
+            "q4": 17,
+            "opp_q1": 29,
+            "opp_q2": 33,
+            "opp_q3": 30,
+            "opp_q4": 23
+          },
+          {
+            "game_id": "0022501131",
+            "date": "2026-04-04",
+            "matchup": "PHI vs. DET",
+            "is_home": true,
+            "wl": "L",
+            "pts": 93,
+            "opp_pts": 116,
+            "pts_1h": 60,
+            "opp_pts_1h": 71,
+            "q1": 31,
+            "q2": 29,
+            "q3": 21,
+            "q4": 12,
+            "opp_q1": 41,
+            "opp_q2": 30,
+            "opp_q3": 24,
+            "opp_q4": 21
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 103.5,
+          "pts_max": 126,
+          "pts_min": 91,
+          "pts_1h_avg": 56.8,
+          "pts_1h_max": 62,
+          "pts_1h_min": 46,
+          "wins": 4,
+          "wins_1h": 3,
+          "q1": 26.6,
+          "q2": 30.1,
+          "q3": 25.5,
+          "q4": 22.6,
+          "opp_q1": 29.6,
+          "opp_q2": 31.9,
+          "opp_q3": 24.0,
+          "opp_q4": 22.1
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Tyrese Maxey",
+              "val": 28.3
+            },
+            {
+              "name": "Joel Embiid",
+              "val": 26.9
+            }
+          ],
+          "reb": [
+            {
+              "name": "Andre Drummond",
+              "val": 8.4
+            },
+            {
+              "name": "Joel Embiid",
+              "val": 7.7
+            }
+          ],
+          "ast": [
+            {
+              "name": "Tyrese Maxey",
+              "val": 6.6
+            },
+            {
+              "name": "VJ Edgecombe",
+              "val": 4.2
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Joel Embiid",
+            "status": "Expected to be out until at least Apr 28"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-26",
+          "t1_pts": 128,
+          "t2_pts": 96,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-24",
+          "t1_pts": 108,
+          "t2_pts": 100,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-21",
+          "t1_pts": 97,
+          "t2_pts": 111,
+          "t1_1h": 54,
+          "t2_1h": 62
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 123,
+          "t2_pts": 91,
+          "t1_1h": 64,
+          "t2_1h": 46
+        },
+        {
+          "date": "2026-03-01",
+          "t1_pts": 114,
+          "t2_pts": 98,
+          "t1_1h": 62,
+          "t2_1h": 50
+        },
+        {
+          "date": "2025-11-11",
+          "t1_pts": 100,
+          "t2_pts": 102,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-31",
+          "t1_pts": 109,
+          "t2_pts": 108,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-22",
+          "t1_pts": 116,
+          "t2_pts": 117,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 111.9,
+        "visitor_avg": 102.9
+      }
+    },
+    {
+      "game_id": "0042500125",
+      "api_date": "2026-04-28",
+      "game_time": "8:00 pm ET",
+      "home": {
+        "id": 1610612752,
+        "name": "New York Knicks",
+        "last10_logs": [
+          {
+            "game_id": "0042500124",
+            "date": "2026-04-25",
+            "matchup": "NYK @ ATL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 114,
+            "opp_pts": 98,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500123",
+            "date": "2026-04-23",
+            "matchup": "NYK @ ATL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 109,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500122",
+            "date": "2026-04-20",
+            "matchup": "NYK vs. ATL",
+            "is_home": true,
+            "wl": "L",
+            "pts": 106,
+            "opp_pts": 107,
+            "pts_1h": 61,
+            "opp_pts_1h": 54,
+            "q1": 32,
+            "q2": 29,
+            "q3": 30,
+            "q4": 15,
+            "opp_q1": 23,
+            "opp_q2": 31,
+            "opp_q3": 25,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0042500121",
+            "date": "2026-04-18",
+            "matchup": "NYK vs. ATL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 102,
+            "pts_1h": 57,
+            "opp_pts_1h": 55,
+            "q1": 30,
+            "q2": 27,
+            "q3": 26,
+            "q4": 30,
+            "opp_q1": 24,
+            "opp_q2": 31,
+            "opp_q3": 19,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0022501190",
+            "date": "2026-04-12",
+            "matchup": "NYK vs. CHA",
+            "is_home": true,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 110,
+            "pts_1h": 44,
+            "opp_pts_1h": 57,
+            "q1": 20,
+            "q2": 24,
+            "q3": 29,
+            "q4": 23,
+            "opp_q1": 30,
+            "opp_q2": 27,
+            "opp_q3": 30,
+            "opp_q4": 23
+          },
+          {
+            "game_id": "0022501176",
+            "date": "2026-04-10",
+            "matchup": "NYK vs. TOR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 95,
+            "pts_1h": 51,
+            "opp_pts_1h": 36,
+            "q1": 22,
+            "q2": 29,
+            "q3": 28,
+            "q4": 33,
+            "opp_q1": 21,
+            "opp_q2": 15,
+            "opp_q3": 28,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501168",
+            "date": "2026-04-09",
+            "matchup": "NYK vs. BOS",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 106,
+            "pts_1h": 54,
+            "opp_pts_1h": 53,
+            "q1": 26,
+            "q2": 28,
+            "q3": 27,
+            "q4": 31,
+            "opp_q1": 29,
+            "opp_q2": 24,
+            "opp_q3": 30,
+            "opp_q4": 23
+          },
+          {
+            "game_id": "0022501143",
+            "date": "2026-04-06",
+            "matchup": "NYK @ ATL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 108,
+            "opp_pts": 105,
+            "pts_1h": 53,
+            "opp_pts_1h": 57,
+            "q1": 32,
+            "q2": 21,
+            "q3": 28,
+            "q4": 27,
+            "opp_q1": 31,
+            "opp_q2": 26,
+            "opp_q3": 22,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501123",
+            "date": "2026-04-03",
+            "matchup": "NYK vs. CHI",
+            "is_home": true,
+            "wl": "W",
+            "pts": 136,
+            "opp_pts": 96,
+            "pts_1h": 78,
+            "opp_pts_1h": 41,
+            "q1": 38,
+            "q2": 40,
+            "q3": 30,
+            "q4": 28,
+            "opp_q1": 16,
+            "opp_q2": 25,
+            "opp_q3": 31,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501003",
+            "date": "2026-04-01",
+            "matchup": "NYK @ MEM",
+            "is_home": false,
+            "wl": "W",
+            "pts": 130,
+            "opp_pts": 119,
+            "pts_1h": 79,
+            "opp_pts_1h": 62,
+            "q1": 48,
+            "q2": 31,
+            "q3": 20,
+            "q4": 31,
+            "opp_q1": 30,
+            "opp_q2": 32,
+            "opp_q3": 28,
+            "opp_q4": 29
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 113.5,
+          "pts_max": 136,
+          "pts_min": 96,
+          "pts_1h_avg": 59.6,
+          "pts_1h_max": 79,
+          "pts_1h_min": 44,
+          "wins": 7,
+          "wins_1h": 6,
+          "q1": 31.0,
+          "q2": 28.6,
+          "q3": 27.2,
+          "q4": 27.2,
+          "opp_q1": 25.5,
+          "opp_q2": 26.4,
+          "opp_q3": 26.6,
+          "opp_q4": 26.5
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Jalen Brunson",
+              "val": 26.0
+            },
+            {
+              "name": "Karl-Anthony Towns",
+              "val": 20.1
+            }
+          ],
+          "reb": [
+            {
+              "name": "Karl-Anthony Towns",
+              "val": 11.9
+            },
+            {
+              "name": "Mitchell Robinson",
+              "val": 8.8
+            }
+          ],
+          "ast": [
+            {
+              "name": "Jalen Brunson",
+              "val": 6.8
+            },
+            {
+              "name": "Josh Hart",
+              "val": 4.8
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Zion Williamson",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Bryce McGowens",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Yves Missi",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Karlo Matkovic",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Trey Murphy III",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Dejounte Murray",
+            "status": "Expected to be out until at least Oct 1"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612737,
+        "name": "Atlanta Hawks",
+        "last10_logs": [
+          {
+            "game_id": "0042500124",
+            "date": "2026-04-25",
+            "matchup": "ATL vs. NYK",
+            "is_home": true,
+            "wl": "L",
+            "pts": 98,
+            "opp_pts": 114,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500123",
+            "date": "2026-04-23",
+            "matchup": "ATL vs. NYK",
+            "is_home": true,
+            "wl": "W",
+            "pts": 109,
+            "opp_pts": 108,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500122",
+            "date": "2026-04-20",
+            "matchup": "ATL @ NYK",
+            "is_home": false,
+            "wl": "W",
+            "pts": 107,
+            "opp_pts": 106,
+            "pts_1h": 54,
+            "opp_pts_1h": 61,
+            "q1": 23,
+            "q2": 31,
+            "q3": 25,
+            "q4": 28,
+            "opp_q1": 32,
+            "opp_q2": 29,
+            "opp_q3": 30,
+            "opp_q4": 15
+          },
+          {
+            "game_id": "0042500121",
+            "date": "2026-04-18",
+            "matchup": "ATL @ NYK",
+            "is_home": false,
+            "wl": "L",
+            "pts": 102,
+            "opp_pts": 113,
+            "pts_1h": 55,
+            "opp_pts_1h": 57,
+            "q1": 24,
+            "q2": 31,
+            "q3": 19,
+            "q4": 28,
+            "opp_q1": 30,
+            "opp_q2": 27,
+            "opp_q3": 26,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501189",
+            "date": "2026-04-12",
+            "matchup": "ATL @ MIA",
+            "is_home": false,
+            "wl": "L",
+            "pts": 117,
+            "opp_pts": 143,
+            "pts_1h": 61,
+            "opp_pts_1h": 70,
+            "q1": 24,
+            "q2": 37,
+            "q3": 23,
+            "q4": 33,
+            "opp_q1": 33,
+            "opp_q2": 37,
+            "opp_q3": 29,
+            "opp_q4": 44
+          },
+          {
+            "game_id": "0022501173",
+            "date": "2026-04-10",
+            "matchup": "ATL vs. CLE",
+            "is_home": true,
+            "wl": "W",
+            "pts": 124,
+            "opp_pts": 102,
+            "pts_1h": 61,
+            "opp_pts_1h": 48,
+            "q1": 27,
+            "q2": 34,
+            "q3": 35,
+            "q4": 28,
+            "opp_q1": 22,
+            "opp_q2": 26,
+            "opp_q3": 17,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501158",
+            "date": "2026-04-08",
+            "matchup": "ATL @ CLE",
+            "is_home": false,
+            "wl": "L",
+            "pts": 116,
+            "opp_pts": 122,
+            "pts_1h": 67,
+            "opp_pts_1h": 60,
+            "q1": 29,
+            "q2": 38,
+            "q3": 20,
+            "q4": 29,
+            "opp_q1": 33,
+            "opp_q2": 27,
+            "opp_q3": 44,
+            "opp_q4": 18
+          },
+          {
+            "game_id": "0022501143",
+            "date": "2026-04-06",
+            "matchup": "ATL vs. NYK",
+            "is_home": true,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 108,
+            "pts_1h": 57,
+            "opp_pts_1h": 53,
+            "q1": 31,
+            "q2": 26,
+            "q3": 22,
+            "q4": 26,
+            "opp_q1": 32,
+            "opp_q2": 21,
+            "opp_q3": 28,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501122",
+            "date": "2026-04-03",
+            "matchup": "ATL @ BKN",
+            "is_home": false,
+            "wl": "W",
+            "pts": 141,
+            "opp_pts": 107,
+            "pts_1h": 71,
+            "opp_pts_1h": 55,
+            "q1": 35,
+            "q2": 36,
+            "q3": 27,
+            "q4": 43,
+            "opp_q1": 25,
+            "opp_q2": 30,
+            "opp_q3": 30,
+            "opp_q4": 22
+          },
+          {
+            "game_id": "0022501107",
+            "date": "2026-04-01",
+            "matchup": "ATL @ ORL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 130,
+            "opp_pts": 101,
+            "pts_1h": 72,
+            "opp_pts_1h": 54,
+            "q1": 25,
+            "q2": 47,
+            "q3": 30,
+            "q4": 28,
+            "opp_q1": 28,
+            "opp_q2": 26,
+            "opp_q3": 22,
+            "opp_q4": 25
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 114.9,
+          "pts_max": 141,
+          "pts_min": 98,
+          "pts_1h_avg": 62.2,
+          "pts_1h_max": 72,
+          "pts_1h_min": 54,
+          "wins": 5,
+          "wins_1h": 5,
+          "q1": 27.2,
+          "q2": 35.0,
+          "q3": 25.1,
+          "q4": 30.4,
+          "opp_q1": 29.4,
+          "opp_q2": 27.9,
+          "opp_q3": 28.2,
+          "opp_q4": 27.2
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Jalen Johnson",
+              "val": 22.5
+            },
+            {
+              "name": "Nickeil Alexander-Walker",
+              "val": 20.8
+            }
+          ],
+          "reb": [
+            {
+              "name": "Jalen Johnson",
+              "val": 10.3
+            },
+            {
+              "name": "Onyeka Okongwu",
+              "val": 7.6
+            }
+          ],
+          "ast": [
+            {
+              "name": "Keshon Gilbert",
+              "val": 9.0
+            },
+            {
+              "name": "Trae Young",
+              "val": 8.9
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Keshon Gilbert",
+            "status": "Expected to be out until at least Jul 2"
+          },
+          {
+            "player": "Jock Landale",
+            "status": "Expected to be out until at least May 2"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-25",
+          "t1_pts": 114,
+          "t2_pts": 98,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-23",
+          "t1_pts": 108,
+          "t2_pts": 109,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-20",
+          "t1_pts": 106,
+          "t2_pts": 107,
+          "t1_1h": 61,
+          "t2_1h": 54
+        },
+        {
+          "date": "2026-04-18",
+          "t1_pts": 113,
+          "t2_pts": 102,
+          "t1_1h": 57,
+          "t2_1h": 55
+        },
+        {
+          "date": "2026-04-06",
+          "t1_pts": 108,
+          "t2_pts": 105,
+          "t1_1h": 53,
+          "t2_1h": 57
+        },
+        {
+          "date": "2026-01-02",
+          "t1_pts": 99,
+          "t2_pts": 111,
+          "t1_1h": 47,
+          "t2_1h": 60
+        },
+        {
+          "date": "2025-12-27",
+          "t1_pts": 128,
+          "t2_pts": 125,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 110.9,
+        "visitor_avg": 108.1
+      }
+    },
+    {
+      "game_id": "0042500155",
+      "api_date": "2026-04-28",
+      "game_time": "9:30 pm ET",
+      "home": {
+        "id": 1610612759,
+        "name": "San Antonio Spurs",
+        "last10_logs": [
+          {
+            "game_id": "0042500154",
+            "date": "2026-04-26",
+            "matchup": "SAS @ POR",
+            "is_home": false,
+            "wl": "W",
+            "pts": 114,
+            "opp_pts": 93,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500153",
+            "date": "2026-04-24",
+            "matchup": "SAS @ POR",
+            "is_home": false,
+            "wl": "W",
+            "pts": 120,
+            "opp_pts": 108,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500152",
+            "date": "2026-04-21",
+            "matchup": "SAS vs. POR",
+            "is_home": true,
+            "wl": "L",
+            "pts": 103,
+            "opp_pts": 106,
+            "pts_1h": 57,
+            "opp_pts_1h": 57,
+            "q1": 28,
+            "q2": 29,
+            "q3": 23,
+            "q4": 23,
+            "opp_q1": 27,
+            "opp_q2": 30,
+            "opp_q3": 22,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0042500151",
+            "date": "2026-04-19",
+            "matchup": "SAS vs. POR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 111,
+            "opp_pts": 98,
+            "pts_1h": 59,
+            "opp_pts_1h": 49,
+            "q1": 30,
+            "q2": 29,
+            "q3": 28,
+            "q4": 24,
+            "opp_q1": 21,
+            "opp_q2": 28,
+            "opp_q3": 23,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501197",
+            "date": "2026-04-12",
+            "matchup": "SAS vs. DEN",
+            "is_home": true,
+            "wl": "L",
+            "pts": 118,
+            "opp_pts": 128,
+            "pts_1h": 56,
+            "opp_pts_1h": 70,
+            "q1": 34,
+            "q2": 22,
+            "q3": 35,
+            "q4": 27,
+            "opp_q1": 37,
+            "opp_q2": 33,
+            "opp_q3": 31,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501180",
+            "date": "2026-04-10",
+            "matchup": "SAS vs. DAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 139,
+            "opp_pts": 120,
+            "pts_1h": 68,
+            "opp_pts_1h": 65,
+            "q1": 37,
+            "q2": 31,
+            "q3": 40,
+            "q4": 31,
+            "opp_q1": 26,
+            "opp_q2": 39,
+            "opp_q3": 28,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501161",
+            "date": "2026-04-08",
+            "matchup": "SAS vs. POR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 101,
+            "pts_1h": 61,
+            "opp_pts_1h": 51,
+            "q1": 32,
+            "q2": 29,
+            "q3": 27,
+            "q4": 24,
+            "opp_q1": 23,
+            "opp_q2": 28,
+            "opp_q3": 22,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0022501146",
+            "date": "2026-04-06",
+            "matchup": "SAS vs. PHI",
+            "is_home": true,
+            "wl": "W",
+            "pts": 115,
+            "opp_pts": 102,
+            "pts_1h": 62,
+            "opp_pts_1h": 55,
+            "q1": 29,
+            "q2": 33,
+            "q3": 30,
+            "q4": 23,
+            "opp_q1": 28,
+            "opp_q2": 27,
+            "opp_q3": 30,
+            "opp_q4": 17
+          },
+          {
+            "game_id": "0022501130",
+            "date": "2026-04-04",
+            "matchup": "SAS @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 134,
+            "opp_pts": 136,
+            "pts_1h": 72,
+            "opp_pts_1h": 65,
+            "q1": 43,
+            "q2": 29,
+            "q3": 24,
+            "q4": 28,
+            "opp_q1": 36,
+            "opp_q2": 29,
+            "opp_q3": 27,
+            "opp_q4": 32
+          },
+          {
+            "game_id": "0022501119",
+            "date": "2026-04-02",
+            "matchup": "SAS @ LAC",
+            "is_home": false,
+            "wl": "W",
+            "pts": 118,
+            "opp_pts": 99,
+            "pts_1h": 68,
+            "opp_pts_1h": 44,
+            "q1": 33,
+            "q2": 35,
+            "q3": 19,
+            "q4": 31,
+            "opp_q1": 25,
+            "opp_q2": 19,
+            "opp_q3": 34,
+            "opp_q4": 21
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 118.4,
+          "pts_max": 139,
+          "pts_min": 103,
+          "pts_1h_avg": 62.9,
+          "pts_1h_max": 72,
+          "pts_1h_min": 56,
+          "wins": 7,
+          "wins_1h": 6,
+          "q1": 33.2,
+          "q2": 29.6,
+          "q3": 28.2,
+          "q4": 26.4,
+          "opp_q1": 27.9,
+          "opp_q2": 29.1,
+          "opp_q3": 27.1,
+          "opp_q4": 25.6
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Victor Wembanyama",
+              "val": 25.0
+            },
+            {
+              "name": "De'Aaron Fox",
+              "val": 18.6
+            }
+          ],
+          "reb": [
+            {
+              "name": "Victor Wembanyama",
+              "val": 11.5
+            },
+            {
+              "name": "Luke Kornet",
+              "val": 6.1
+            }
+          ],
+          "ast": [
+            {
+              "name": "Stephon Castle",
+              "val": 7.4
+            },
+            {
+              "name": "De'Aaron Fox",
+              "val": 6.2
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "David Jones",
+            "status": "Expected to be out until at least Jul 2"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612757,
+        "name": "Portland Trail Blazers",
+        "last10_logs": [
+          {
+            "game_id": "0042500154",
+            "date": "2026-04-26",
+            "matchup": "POR vs. SAS",
+            "is_home": true,
+            "wl": "L",
+            "pts": 93,
+            "opp_pts": 114,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500153",
+            "date": "2026-04-24",
+            "matchup": "POR vs. SAS",
+            "is_home": true,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 120,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500152",
+            "date": "2026-04-21",
+            "matchup": "POR @ SAS",
+            "is_home": false,
+            "wl": "W",
+            "pts": 106,
+            "opp_pts": 103,
+            "pts_1h": 57,
+            "opp_pts_1h": 57,
+            "q1": 27,
+            "q2": 30,
+            "q3": 22,
+            "q4": 27,
+            "opp_q1": 28,
+            "opp_q2": 29,
+            "opp_q3": 23,
+            "opp_q4": 23
+          },
+          {
+            "game_id": "0042500151",
+            "date": "2026-04-19",
+            "matchup": "POR @ SAS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 98,
+            "opp_pts": 111,
+            "pts_1h": 49,
+            "opp_pts_1h": 59,
+            "q1": 21,
+            "q2": 28,
+            "q3": 23,
+            "q4": 26,
+            "opp_q1": 30,
+            "opp_q2": 29,
+            "opp_q3": 28,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0052500121",
+            "date": "2026-04-14",
+            "matchup": "POR @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 114,
+            "opp_pts": 110,
+            "pts_1h": 65,
+            "opp_pts_1h": 62,
+            "q1": 31,
+            "q2": 34,
+            "q3": 18,
+            "q4": 31,
+            "opp_q1": 33,
+            "opp_q2": 29,
+            "opp_q3": 20,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0022501200",
+            "date": "2026-04-12",
+            "matchup": "POR vs. SAC",
+            "is_home": true,
+            "wl": "W",
+            "pts": 122,
+            "opp_pts": 110,
+            "pts_1h": 77,
+            "opp_pts_1h": 57,
+            "q1": 33,
+            "q2": 44,
+            "q3": 19,
+            "q4": 26,
+            "opp_q1": 33,
+            "opp_q2": 24,
+            "opp_q3": 27,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501183",
+            "date": "2026-04-10",
+            "matchup": "POR vs. LAC",
+            "is_home": true,
+            "wl": "W",
+            "pts": 116,
+            "opp_pts": 97,
+            "pts_1h": 61,
+            "opp_pts_1h": 51,
+            "q1": 33,
+            "q2": 28,
+            "q3": 25,
+            "q4": 30,
+            "opp_q1": 24,
+            "opp_q2": 27,
+            "opp_q3": 33,
+            "opp_q4": 13
+          },
+          {
+            "game_id": "0022501161",
+            "date": "2026-04-08",
+            "matchup": "POR @ SAS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 101,
+            "opp_pts": 112,
+            "pts_1h": 51,
+            "opp_pts_1h": 61,
+            "q1": 23,
+            "q2": 28,
+            "q3": 22,
+            "q4": 28,
+            "opp_q1": 32,
+            "opp_q2": 29,
+            "opp_q3": 27,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501147",
+            "date": "2026-04-06",
+            "matchup": "POR @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 132,
+            "opp_pts": 137,
+            "pts_1h": 72,
+            "opp_pts_1h": 58,
+            "q1": 35,
+            "q2": 37,
+            "q3": 29,
+            "q4": 24,
+            "opp_q1": 31,
+            "opp_q2": 27,
+            "opp_q3": 29,
+            "opp_q4": 38
+          },
+          {
+            "game_id": "0022501118",
+            "date": "2026-04-02",
+            "matchup": "POR vs. NOP",
+            "is_home": true,
+            "wl": "W",
+            "pts": 118,
+            "opp_pts": 106,
+            "pts_1h": 60,
+            "opp_pts_1h": 65,
+            "q1": 35,
+            "q2": 25,
+            "q3": 28,
+            "q4": 30,
+            "opp_q1": 32,
+            "opp_q2": 33,
+            "opp_q3": 16,
+            "opp_q4": 25
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 110.8,
+          "pts_max": 132,
+          "pts_min": 93,
+          "pts_1h_avg": 61.5,
+          "pts_1h_max": 77,
+          "pts_1h_min": 49,
+          "wins": 5,
+          "wins_1h": 4,
+          "q1": 29.8,
+          "q2": 31.8,
+          "q3": 23.2,
+          "q4": 27.8,
+          "opp_q1": 30.4,
+          "opp_q2": 28.4,
+          "opp_q3": 25.4,
+          "opp_q4": 25.1
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Deni Avdija",
+              "val": 24.2
+            },
+            {
+              "name": "Shaedon Sharpe",
+              "val": 20.8
+            }
+          ],
+          "reb": [
+            {
+              "name": "Donovan Clingan",
+              "val": 11.6
+            },
+            {
+              "name": "Robert Williams III",
+              "val": 7.0
+            }
+          ],
+          "ast": [
+            {
+              "name": "Deni Avdija",
+              "val": 6.7
+            },
+            {
+              "name": "Jrue Holiday",
+              "val": 6.1
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Damian Lillard",
+            "status": "Expected to be out until at least Oct 1"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-26",
+          "t1_pts": 114,
+          "t2_pts": 93,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-24",
+          "t1_pts": 120,
+          "t2_pts": 108,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-21",
+          "t1_pts": 103,
+          "t2_pts": 106,
+          "t1_1h": 57,
+          "t2_1h": 57
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 111,
+          "t2_pts": 98,
+          "t1_1h": 59,
+          "t2_1h": 49
+        },
+        {
+          "date": "2026-04-08",
+          "t1_pts": 112,
+          "t2_pts": 101,
+          "t1_1h": 61,
+          "t2_1h": 51
+        },
+        {
+          "date": "2026-01-03",
+          "t1_pts": 110,
+          "t2_pts": 115,
+          "t1_1h": 51,
+          "t2_1h": 55
+        },
+        {
+          "date": "2025-11-26",
+          "t1_pts": 115,
+          "t2_pts": 102,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 112.1,
+        "visitor_avg": 103.3
+      }
+    },
+    {
+      "game_id": "0042500105",
+      "api_date": "2026-04-29",
+      "game_time": "TBD",
+      "home": {
+        "id": 1610612765,
+        "name": "Detroit Pistons",
+        "last10_logs": [
+          {
+            "game_id": "0042500104",
+            "date": "2026-04-27",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 88,
+            "opp_pts": 94,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500103",
+            "date": "2026-04-25",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 113,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500102",
+            "date": "2026-04-22",
+            "matchup": "DET vs. ORL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 98,
+            "opp_pts": 83,
+            "pts_1h": 46,
+            "opp_pts_1h": 46,
+            "q1": 25,
+            "q2": 21,
+            "q3": 38,
+            "q4": 14,
+            "opp_q1": 21,
+            "opp_q2": 25,
+            "opp_q3": 16,
+            "opp_q4": 21
+          },
+          {
+            "game_id": "0042500101",
+            "date": "2026-04-19",
+            "matchup": "DET vs. ORL",
+            "is_home": true,
+            "wl": "L",
+            "pts": 101,
+            "opp_pts": 112,
+            "pts_1h": 51,
+            "opp_pts_1h": 55,
+            "q1": 27,
+            "q2": 24,
+            "q3": 23,
+            "q4": 27,
+            "opp_q1": 35,
+            "opp_q2": 20,
+            "opp_q3": 26,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501188",
+            "date": "2026-04-12",
+            "matchup": "DET @ IND",
+            "is_home": false,
+            "wl": "W",
+            "pts": 133,
+            "opp_pts": 121,
+            "pts_1h": 81,
+            "opp_pts_1h": 63,
+            "q1": 41,
+            "q2": 40,
+            "q3": 27,
+            "q4": 25,
+            "opp_q1": 27,
+            "opp_q2": 36,
+            "opp_q3": 26,
+            "opp_q4": 32
+          },
+          {
+            "game_id": "0022501171",
+            "date": "2026-04-10",
+            "matchup": "DET @ CHA",
+            "is_home": false,
+            "wl": "W",
+            "pts": 118,
+            "opp_pts": 100,
+            "pts_1h": 68,
+            "opp_pts_1h": 65,
+            "q1": 36,
+            "q2": 32,
+            "q3": 25,
+            "q4": 25,
+            "opp_q1": 30,
+            "opp_q2": 35,
+            "opp_q3": 25,
+            "opp_q4": 10
+          },
+          {
+            "game_id": "0022501160",
+            "date": "2026-04-08",
+            "matchup": "DET vs. MIL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 137,
+            "opp_pts": 111,
+            "pts_1h": 75,
+            "opp_pts_1h": 57,
+            "q1": 34,
+            "q2": 41,
+            "q3": 37,
+            "q4": 25,
+            "opp_q1": 28,
+            "opp_q2": 29,
+            "opp_q3": 29,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501144",
+            "date": "2026-04-06",
+            "matchup": "DET @ ORL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 123,
+            "pts_1h": 55,
+            "opp_pts_1h": 69,
+            "q1": 28,
+            "q2": 27,
+            "q3": 21,
+            "q4": 31,
+            "opp_q1": 30,
+            "opp_q2": 39,
+            "opp_q3": 29,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501131",
+            "date": "2026-04-04",
+            "matchup": "DET @ PHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 116,
+            "opp_pts": 93,
+            "pts_1h": 71,
+            "opp_pts_1h": 60,
+            "q1": 41,
+            "q2": 30,
+            "q3": 24,
+            "q4": 21,
+            "opp_q1": 31,
+            "opp_q2": 29,
+            "opp_q3": 21,
+            "opp_q4": 12
+          },
+          {
+            "game_id": "0022501115",
+            "date": "2026-04-02",
+            "matchup": "DET vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 108,
+            "pts_1h": 54,
+            "opp_pts_1h": 54,
+            "q1": 30,
+            "q2": 24,
+            "q3": 25,
+            "q4": 34,
+            "opp_q1": 31,
+            "opp_q2": 23,
+            "opp_q3": 26,
+            "opp_q4": 28
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 111.6,
+          "pts_max": 137,
+          "pts_min": 88,
+          "pts_1h_avg": 62.6,
+          "pts_1h_max": 81,
+          "pts_1h_min": 46,
+          "wins": 6,
+          "wins_1h": 4,
+          "q1": 32.8,
+          "q2": 29.9,
+          "q3": 27.5,
+          "q4": 25.2,
+          "opp_q1": 29.1,
+          "opp_q2": 29.5,
+          "opp_q3": 24.8,
+          "opp_q4": 23.0
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Cade Cunningham",
+              "val": 23.9
+            },
+            {
+              "name": "Jalen Duren",
+              "val": 19.5
+            }
+          ],
+          "reb": [
+            {
+              "name": "Jalen Duren",
+              "val": 10.5
+            },
+            {
+              "name": "Ausar Thompson",
+              "val": 5.7
+            }
+          ],
+          "ast": [
+            {
+              "name": "Cade Cunningham",
+              "val": 9.9
+            },
+            {
+              "name": "Daniss Jenkins",
+              "val": 3.9
+            }
+          ]
+        },
+        "injuries": []
+      },
+      "visitor": {
+        "id": 1610612753,
+        "name": "Orlando Magic",
+        "last10_logs": [
+          {
+            "game_id": "0042500104",
+            "date": "2026-04-27",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 94,
+            "opp_pts": 88,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500103",
+            "date": "2026-04-25",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 105,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500102",
+            "date": "2026-04-22",
+            "matchup": "ORL @ DET",
+            "is_home": false,
+            "wl": "L",
+            "pts": 83,
+            "opp_pts": 98,
+            "pts_1h": 46,
+            "opp_pts_1h": 46,
+            "q1": 21,
+            "q2": 25,
+            "q3": 16,
+            "q4": 21,
+            "opp_q1": 25,
+            "opp_q2": 21,
+            "opp_q3": 38,
+            "opp_q4": 14
+          },
+          {
+            "game_id": "0042500101",
+            "date": "2026-04-19",
+            "matchup": "ORL @ DET",
+            "is_home": false,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 101,
+            "pts_1h": 55,
+            "opp_pts_1h": 51,
+            "q1": 35,
+            "q2": 20,
+            "q3": 26,
+            "q4": 31,
+            "opp_q1": 27,
+            "opp_q2": 24,
+            "opp_q3": 23,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0052500201",
+            "date": "2026-04-17",
+            "matchup": "ORL vs. CHA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 121,
+            "opp_pts": 90,
+            "pts_1h": 68,
+            "opp_pts_1h": 37,
+            "q1": 38,
+            "q2": 30,
+            "q3": 34,
+            "q4": 19,
+            "opp_q1": 16,
+            "opp_q2": 21,
+            "opp_q3": 34,
+            "opp_q4": 19
+          },
+          {
+            "game_id": "0052500101",
+            "date": "2026-04-15",
+            "matchup": "ORL @ PHI",
+            "is_home": false,
+            "wl": "L",
+            "pts": 97,
+            "opp_pts": 109,
+            "pts_1h": 55,
+            "opp_pts_1h": 59,
+            "q1": 24,
+            "q2": 31,
+            "q3": 19,
+            "q4": 23,
+            "opp_q1": 28,
+            "opp_q2": 31,
+            "opp_q3": 20,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501186",
+            "date": "2026-04-12",
+            "matchup": "ORL @ BOS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 113,
+            "pts_1h": 61,
+            "opp_pts_1h": 52,
+            "q1": 29,
+            "q2": 32,
+            "q3": 20,
+            "q4": 27,
+            "opp_q1": 20,
+            "opp_q2": 32,
+            "opp_q3": 42,
+            "opp_q4": 19
+          },
+          {
+            "game_id": "0022501177",
+            "date": "2026-04-10",
+            "matchup": "ORL @ CHI",
+            "is_home": false,
+            "wl": "W",
+            "pts": 127,
+            "opp_pts": 103,
+            "pts_1h": 64,
+            "opp_pts_1h": 53,
+            "q1": 28,
+            "q2": 36,
+            "q3": 35,
+            "q4": 28,
+            "opp_q1": 26,
+            "opp_q2": 27,
+            "opp_q3": 26,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501159",
+            "date": "2026-04-08",
+            "matchup": "ORL vs. MIN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 132,
+            "opp_pts": 120,
+            "pts_1h": 63,
+            "opp_pts_1h": 53,
+            "q1": 34,
+            "q2": 29,
+            "q3": 38,
+            "q4": 31,
+            "opp_q1": 32,
+            "opp_q2": 21,
+            "opp_q3": 30,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501144",
+            "date": "2026-04-06",
+            "matchup": "ORL vs. DET",
+            "is_home": true,
+            "wl": "W",
+            "pts": 123,
+            "opp_pts": 107,
+            "pts_1h": 69,
+            "opp_pts_1h": 55,
+            "q1": 30,
+            "q2": 39,
+            "q3": 29,
+            "q4": 25,
+            "opp_q1": 28,
+            "opp_q2": 27,
+            "opp_q3": 21,
+            "opp_q4": 31
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 111.0,
+          "pts_max": 132,
+          "pts_min": 83,
+          "pts_1h_avg": 60.1,
+          "pts_1h_max": 69,
+          "pts_1h_min": 46,
+          "wins": 7,
+          "wins_1h": 6,
+          "q1": 29.9,
+          "q2": 30.2,
+          "q3": 27.1,
+          "q4": 25.6,
+          "opp_q1": 25.2,
+          "opp_q2": 25.5,
+          "opp_q3": 29.2,
+          "opp_q4": 25.1
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Paolo Banchero",
+              "val": 22.2
+            },
+            {
+              "name": "Franz Wagner",
+              "val": 20.6
+            }
+          ],
+          "reb": [
+            {
+              "name": "Paolo Banchero",
+              "val": 8.4
+            },
+            {
+              "name": "Wendell Carter Jr.",
+              "val": 7.4
+            }
+          ],
+          "ast": [
+            {
+              "name": "Jalen Suggs",
+              "val": 5.5
+            },
+            {
+              "name": "Paolo Banchero",
+              "val": 5.2
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Franz Wagner",
+            "status": "Expected to be out until at least Apr 29"
+          },
+          {
+            "player": "Jonathan Isaac",
+            "status": "Expected to be out until at least Apr 29"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-27",
+          "t1_pts": 88,
+          "t2_pts": 94,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-25",
+          "t1_pts": 105,
+          "t2_pts": 113,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-22",
+          "t1_pts": 98,
+          "t2_pts": 83,
+          "t1_1h": 46,
+          "t2_1h": 46
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 101,
+          "t2_pts": 112,
+          "t1_1h": 51,
+          "t2_1h": 55
+        },
+        {
+          "date": "2026-04-06",
+          "t1_pts": 107,
+          "t2_pts": 123,
+          "t1_1h": 55,
+          "t2_1h": 69
+        },
+        {
+          "date": "2026-03-01",
+          "t1_pts": 106,
+          "t2_pts": 92,
+          "t1_1h": 50,
+          "t2_1h": 57
+        },
+        {
+          "date": "2025-11-28",
+          "t1_pts": 109,
+          "t2_pts": 112,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-29",
+          "t1_pts": 135,
+          "t2_pts": 116,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 106.1,
+        "visitor_avg": 105.6
+      }
+    },
+    {
+      "game_id": "0042500135",
+      "api_date": "2026-04-29",
+      "game_time": "TBD",
+      "home": {
+        "id": 1610612739,
+        "name": "Cleveland Cavaliers",
+        "last10_logs": [
+          {
+            "game_id": "0042500134",
+            "date": "2026-04-26",
+            "matchup": "CLE @ TOR",
+            "is_home": false,
+            "wl": "L",
+            "pts": 89,
+            "opp_pts": 93,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500133",
+            "date": "2026-04-23",
+            "matchup": "CLE @ TOR",
+            "is_home": false,
+            "wl": "L",
+            "pts": 104,
+            "opp_pts": 126,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500132",
+            "date": "2026-04-20",
+            "matchup": "CLE vs. TOR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 115,
+            "opp_pts": 105,
+            "pts_1h": 54,
+            "opp_pts_1h": 48,
+            "q1": 26,
+            "q2": 28,
+            "q3": 30,
+            "q4": 31,
+            "opp_q1": 19,
+            "opp_q2": 29,
+            "opp_q3": 29,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0042500131",
+            "date": "2026-04-18",
+            "matchup": "CLE vs. TOR",
+            "is_home": true,
+            "wl": "W",
+            "pts": 126,
+            "opp_pts": 113,
+            "pts_1h": 61,
+            "opp_pts_1h": 54,
+            "q1": 35,
+            "q2": 26,
+            "q3": 36,
+            "q4": 29,
+            "opp_q1": 31,
+            "opp_q2": 23,
+            "opp_q3": 22,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501187",
+            "date": "2026-04-12",
+            "matchup": "CLE vs. WAS",
+            "is_home": true,
+            "wl": "W",
+            "pts": 130,
+            "opp_pts": 117,
+            "pts_1h": 65,
+            "opp_pts_1h": 55,
+            "q1": 43,
+            "q2": 22,
+            "q3": 34,
+            "q4": 31,
+            "opp_q1": 21,
+            "opp_q2": 34,
+            "opp_q3": 40,
+            "opp_q4": 22
+          },
+          {
+            "game_id": "0022501173",
+            "date": "2026-04-10",
+            "matchup": "CLE @ ATL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 102,
+            "opp_pts": 124,
+            "pts_1h": 48,
+            "opp_pts_1h": 61,
+            "q1": 22,
+            "q2": 26,
+            "q3": 17,
+            "q4": 37,
+            "opp_q1": 27,
+            "opp_q2": 34,
+            "opp_q3": 35,
+            "opp_q4": 28
+          },
+          {
+            "game_id": "0022501158",
+            "date": "2026-04-08",
+            "matchup": "CLE vs. ATL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 122,
+            "opp_pts": 116,
+            "pts_1h": 60,
+            "opp_pts_1h": 67,
+            "q1": 33,
+            "q2": 27,
+            "q3": 44,
+            "q4": 18,
+            "opp_q1": 29,
+            "opp_q2": 38,
+            "opp_q3": 20,
+            "opp_q4": 29
+          },
+          {
+            "game_id": "0022501145",
+            "date": "2026-04-06",
+            "matchup": "CLE @ MEM",
+            "is_home": false,
+            "wl": "W",
+            "pts": 142,
+            "opp_pts": 126,
+            "pts_1h": 68,
+            "opp_pts_1h": 64,
+            "q1": 24,
+            "q2": 44,
+            "q3": 33,
+            "q4": 41,
+            "opp_q1": 36,
+            "opp_q2": 28,
+            "opp_q3": 26,
+            "opp_q4": 36
+          },
+          {
+            "game_id": "0022501136",
+            "date": "2026-04-05",
+            "matchup": "CLE vs. IND",
+            "is_home": true,
+            "wl": "W",
+            "pts": 117,
+            "opp_pts": 108,
+            "pts_1h": 55,
+            "opp_pts_1h": 58,
+            "q1": 31,
+            "q2": 24,
+            "q3": 35,
+            "q4": 27,
+            "opp_q1": 32,
+            "opp_q2": 26,
+            "opp_q3": 33,
+            "opp_q4": 17
+          },
+          {
+            "game_id": "0022501117",
+            "date": "2026-04-02",
+            "matchup": "CLE @ GSW",
+            "is_home": false,
+            "wl": "W",
+            "pts": 118,
+            "opp_pts": 111,
+            "pts_1h": 54,
+            "opp_pts_1h": 47,
+            "q1": 30,
+            "q2": 24,
+            "q3": 30,
+            "q4": 34,
+            "opp_q1": 26,
+            "opp_q2": 21,
+            "opp_q3": 33,
+            "opp_q4": 31
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 116.5,
+          "pts_max": 142,
+          "pts_min": 89,
+          "pts_1h_avg": 58.1,
+          "pts_1h_max": 68,
+          "pts_1h_min": 48,
+          "wins": 7,
+          "wins_1h": 5,
+          "q1": 30.5,
+          "q2": 27.6,
+          "q3": 32.4,
+          "q4": 31.0,
+          "opp_q1": 27.6,
+          "opp_q2": 29.1,
+          "opp_q3": 29.8,
+          "opp_q4": 28.5
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Donovan Mitchell",
+              "val": 27.9
+            },
+            {
+              "name": "James Harden",
+              "val": 20.5
+            }
+          ],
+          "reb": [
+            {
+              "name": "Evan Mobley",
+              "val": 9.0
+            },
+            {
+              "name": "Jarrett Allen",
+              "val": 8.5
+            }
+          ],
+          "ast": [
+            {
+              "name": "James Harden",
+              "val": 7.7
+            },
+            {
+              "name": "Darius Garland",
+              "val": 6.9
+            }
+          ]
+        },
+        "injuries": []
+      },
+      "visitor": {
+        "id": 1610612761,
+        "name": "Toronto Raptors",
+        "last10_logs": [
+          {
+            "game_id": "0042500134",
+            "date": "2026-04-26",
+            "matchup": "TOR vs. CLE",
+            "is_home": true,
+            "wl": "W",
+            "pts": 93,
+            "opp_pts": 89,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500133",
+            "date": "2026-04-23",
+            "matchup": "TOR vs. CLE",
+            "is_home": true,
+            "wl": "W",
+            "pts": 126,
+            "opp_pts": 104,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500132",
+            "date": "2026-04-20",
+            "matchup": "TOR @ CLE",
+            "is_home": false,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 115,
+            "pts_1h": 48,
+            "opp_pts_1h": 54,
+            "q1": 19,
+            "q2": 29,
+            "q3": 29,
+            "q4": 28,
+            "opp_q1": 26,
+            "opp_q2": 28,
+            "opp_q3": 30,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0042500131",
+            "date": "2026-04-18",
+            "matchup": "TOR @ CLE",
+            "is_home": false,
+            "wl": "L",
+            "pts": 113,
+            "opp_pts": 126,
+            "pts_1h": 54,
+            "opp_pts_1h": 61,
+            "q1": 31,
+            "q2": 23,
+            "q3": 22,
+            "q4": 37,
+            "opp_q1": 35,
+            "opp_q2": 26,
+            "opp_q3": 36,
+            "opp_q4": 29
+          },
+          {
+            "game_id": "0022501192",
+            "date": "2026-04-12",
+            "matchup": "TOR vs. BKN",
+            "is_home": true,
+            "wl": "W",
+            "pts": 136,
+            "opp_pts": 101,
+            "pts_1h": 70,
+            "opp_pts_1h": 61,
+            "q1": 32,
+            "q2": 38,
+            "q3": 30,
+            "q4": 36,
+            "opp_q1": 27,
+            "opp_q2": 34,
+            "opp_q3": 23,
+            "opp_q4": 17
+          },
+          {
+            "game_id": "0022501176",
+            "date": "2026-04-10",
+            "matchup": "TOR @ NYK",
+            "is_home": false,
+            "wl": "L",
+            "pts": 95,
+            "opp_pts": 112,
+            "pts_1h": 36,
+            "opp_pts_1h": 51,
+            "q1": 21,
+            "q2": 15,
+            "q3": 28,
+            "q4": 31,
+            "opp_q1": 22,
+            "opp_q2": 29,
+            "opp_q3": 28,
+            "opp_q4": 33
+          },
+          {
+            "game_id": "0022501165",
+            "date": "2026-04-09",
+            "matchup": "TOR vs. MIA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 114,
+            "pts_1h": 69,
+            "opp_pts_1h": 50,
+            "q1": 32,
+            "q2": 37,
+            "q3": 33,
+            "q4": 26,
+            "opp_q1": 26,
+            "opp_q2": 24,
+            "opp_q3": 40,
+            "opp_q4": 24
+          },
+          {
+            "game_id": "0022501151",
+            "date": "2026-04-07",
+            "matchup": "TOR vs. MIA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 121,
+            "opp_pts": 95,
+            "pts_1h": 64,
+            "opp_pts_1h": 51,
+            "q1": 32,
+            "q2": 32,
+            "q3": 30,
+            "q4": 27,
+            "opp_q1": 27,
+            "opp_q2": 24,
+            "opp_q3": 25,
+            "opp_q4": 19
+          },
+          {
+            "game_id": "0022501132",
+            "date": "2026-04-05",
+            "matchup": "TOR @ BOS",
+            "is_home": false,
+            "wl": "L",
+            "pts": 101,
+            "opp_pts": 115,
+            "pts_1h": 46,
+            "opp_pts_1h": 54,
+            "q1": 26,
+            "q2": 20,
+            "q3": 31,
+            "q4": 24,
+            "opp_q1": 26,
+            "opp_q2": 28,
+            "opp_q3": 26,
+            "opp_q4": 35
+          },
+          {
+            "game_id": "0022501125",
+            "date": "2026-04-03",
+            "matchup": "TOR @ MEM",
+            "is_home": false,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 96,
+            "pts_1h": 59,
+            "opp_pts_1h": 41,
+            "q1": 26,
+            "q2": 33,
+            "q3": 37,
+            "q4": 32,
+            "opp_q1": 21,
+            "opp_q2": 20,
+            "opp_q3": 31,
+            "opp_q4": 24
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 114.6,
+          "pts_max": 136,
+          "pts_min": 93,
+          "pts_1h_avg": 55.8,
+          "pts_1h_max": 70,
+          "pts_1h_min": 36,
+          "wins": 6,
+          "wins_1h": 4,
+          "q1": 27.4,
+          "q2": 28.4,
+          "q3": 30.0,
+          "q4": 30.1,
+          "opp_q1": 26.2,
+          "opp_q2": 26.6,
+          "opp_q3": 29.9,
+          "opp_q4": 26.5
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Brandon Ingram",
+              "val": 21.5
+            },
+            {
+              "name": "RJ Barrett",
+              "val": 19.3
+            }
+          ],
+          "reb": [
+            {
+              "name": "Scottie Barnes",
+              "val": 7.5
+            },
+            {
+              "name": "Jakob Poeltl",
+              "val": 7.0
+            }
+          ],
+          "ast": [
+            {
+              "name": "Scottie Barnes",
+              "val": 5.9
+            },
+            {
+              "name": "Immanuel Quickley",
+              "val": 5.9
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Immanuel Quickley",
+            "status": "Expected to be out until at least May 5"
+          },
+          {
+            "player": "Chucky Hepburn",
+            "status": "Expected to be out until at least Jul 2"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-26",
+          "t1_pts": 89,
+          "t2_pts": 93,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-23",
+          "t1_pts": 104,
+          "t2_pts": 126,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-20",
+          "t1_pts": 115,
+          "t2_pts": 105,
+          "t1_1h": 54,
+          "t2_1h": 48
+        },
+        {
+          "date": "2026-04-18",
+          "t1_pts": 126,
+          "t2_pts": 113,
+          "t1_1h": 61,
+          "t2_1h": 54
+        },
+        {
+          "date": "2025-11-24",
+          "t1_pts": 99,
+          "t2_pts": 110,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-11-13",
+          "t1_pts": 113,
+          "t2_pts": 126,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-10-31",
+          "t1_pts": 101,
+          "t2_pts": 112,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 106.7,
+        "visitor_avg": 112.1
+      }
+    },
+    {
+      "game_id": "0042500145",
+      "api_date": "2026-04-29",
+      "game_time": "TBD",
+      "home": {
+        "id": 1610612760,
+        "name": "Oklahoma City Thunder",
+        "last10_logs": [
+          {
+            "game_id": "0042500144",
+            "date": "2026-04-27",
+            "matchup": "OKC @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 131,
+            "opp_pts": 122,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500143",
+            "date": "2026-04-25",
+            "matchup": "OKC @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 121,
+            "opp_pts": 109,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500142",
+            "date": "2026-04-22",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "W",
+            "pts": 120,
+            "opp_pts": 107,
+            "pts_1h": 65,
+            "opp_pts_1h": 57,
+            "q1": 30,
+            "q2": 35,
+            "q3": 35,
+            "q4": 20,
+            "opp_q1": 29,
+            "opp_q2": 28,
+            "opp_q3": 20,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0042500141",
+            "date": "2026-04-19",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "W",
+            "pts": 119,
+            "opp_pts": 84,
+            "pts_1h": 65,
+            "opp_pts_1h": 44,
+            "q1": 35,
+            "q2": 30,
+            "q3": 32,
+            "q4": 22,
+            "opp_q1": 20,
+            "opp_q2": 24,
+            "opp_q3": 22,
+            "opp_q4": 18
+          },
+          {
+            "game_id": "0022501196",
+            "date": "2026-04-12",
+            "matchup": "OKC vs. PHX",
+            "is_home": true,
+            "wl": "L",
+            "pts": 103,
+            "opp_pts": 135,
+            "pts_1h": 52,
+            "opp_pts_1h": 70,
+            "q1": 19,
+            "q2": 33,
+            "q3": 25,
+            "q4": 26,
+            "opp_q1": 37,
+            "opp_q2": 33,
+            "opp_q3": 34,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501182",
+            "date": "2026-04-10",
+            "matchup": "OKC @ DEN",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 127,
+            "pts_1h": 51,
+            "opp_pts_1h": 59,
+            "q1": 27,
+            "q2": 24,
+            "q3": 34,
+            "q4": 22,
+            "opp_q1": 34,
+            "opp_q2": 25,
+            "opp_q3": 31,
+            "opp_q4": 37
+          },
+          {
+            "game_id": "0022501163",
+            "date": "2026-04-08",
+            "matchup": "OKC @ LAC",
+            "is_home": false,
+            "wl": "W",
+            "pts": 128,
+            "opp_pts": 110,
+            "pts_1h": 69,
+            "opp_pts_1h": 49,
+            "q1": 34,
+            "q2": 35,
+            "q3": 25,
+            "q4": 34,
+            "opp_q1": 23,
+            "opp_q2": 26,
+            "opp_q3": 31,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501155",
+            "date": "2026-04-07",
+            "matchup": "OKC @ LAL",
+            "is_home": false,
+            "wl": "W",
+            "pts": 123,
+            "opp_pts": 87,
+            "pts_1h": 65,
+            "opp_pts_1h": 47,
+            "q1": 34,
+            "q2": 31,
+            "q3": 28,
+            "q4": 30,
+            "opp_q1": 27,
+            "opp_q2": 20,
+            "opp_q3": 15,
+            "opp_q4": 25
+          },
+          {
+            "game_id": "0022501139",
+            "date": "2026-04-05",
+            "matchup": "OKC vs. UTA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 146,
+            "opp_pts": 111,
+            "pts_1h": 75,
+            "opp_pts_1h": 54,
+            "q1": 40,
+            "q2": 35,
+            "q3": 33,
+            "q4": 38,
+            "opp_q1": 25,
+            "opp_q2": 29,
+            "opp_q3": 27,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501116",
+            "date": "2026-04-02",
+            "matchup": "OKC vs. LAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 139,
+            "opp_pts": 96,
+            "pts_1h": 82,
+            "opp_pts_1h": 51,
+            "q1": 44,
+            "q2": 38,
+            "q3": 30,
+            "q4": 27,
+            "opp_q1": 21,
+            "opp_q2": 30,
+            "opp_q3": 16,
+            "opp_q4": 29
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 123.7,
+          "pts_max": 146,
+          "pts_min": 103,
+          "pts_1h_avg": 65.5,
+          "pts_1h_max": 82,
+          "pts_1h_min": 51,
+          "wins": 8,
+          "wins_1h": 6,
+          "q1": 32.9,
+          "q2": 32.6,
+          "q3": 30.2,
+          "q4": 27.4,
+          "opp_q1": 27.0,
+          "opp_q2": 26.9,
+          "opp_q3": 24.5,
+          "opp_q4": 28.8
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Shai Gilgeous-Alexander",
+              "val": 31.1
+            },
+            {
+              "name": "Chet Holmgren",
+              "val": 17.1
+            }
+          ],
+          "reb": [
+            {
+              "name": "Isaiah Hartenstein",
+              "val": 9.4
+            },
+            {
+              "name": "Chet Holmgren",
+              "val": 8.9
+            }
+          ],
+          "ast": [
+            {
+              "name": "Shai Gilgeous-Alexander",
+              "val": 6.6
+            },
+            {
+              "name": "Jalen Williams",
+              "val": 5.5
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Jalen Williams",
+            "status": "Expected to be out until at least May 1"
+          },
+          {
+            "player": "Thomas Sorber",
+            "status": "Expected to be out until at least Oct 1"
+          }
+        ]
+      },
+      "visitor": {
+        "id": 1610612756,
+        "name": "Phoenix Suns",
+        "last10_logs": [
+          {
+            "game_id": "0042500144",
+            "date": "2026-04-27",
+            "matchup": "PHX vs. OKC",
+            "is_home": true,
+            "wl": "L",
+            "pts": 122,
+            "opp_pts": 131,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500143",
+            "date": "2026-04-25",
+            "matchup": "PHX vs. OKC",
+            "is_home": true,
+            "wl": "L",
+            "pts": 109,
+            "opp_pts": 121,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500142",
+            "date": "2026-04-22",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "L",
+            "pts": 107,
+            "opp_pts": 120,
+            "pts_1h": 57,
+            "opp_pts_1h": 65,
+            "q1": 29,
+            "q2": 28,
+            "q3": 20,
+            "q4": 30,
+            "opp_q1": 30,
+            "opp_q2": 35,
+            "opp_q3": 35,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0042500141",
+            "date": "2026-04-19",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "L",
+            "pts": 84,
+            "opp_pts": 119,
+            "pts_1h": 44,
+            "opp_pts_1h": 65,
+            "q1": 20,
+            "q2": 24,
+            "q3": 22,
+            "q4": 18,
+            "opp_q1": 35,
+            "opp_q2": 30,
+            "opp_q3": 32,
+            "opp_q4": 22
+          },
+          {
+            "game_id": "0052500211",
+            "date": "2026-04-17",
+            "matchup": "PHX vs. GSW",
+            "is_home": true,
+            "wl": "W",
+            "pts": 111,
+            "opp_pts": 96,
+            "pts_1h": 50,
+            "opp_pts_1h": 45,
+            "q1": 33,
+            "q2": 17,
+            "q3": 28,
+            "q4": 33,
+            "opp_q1": 15,
+            "opp_q2": 30,
+            "opp_q3": 24,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0052500121",
+            "date": "2026-04-14",
+            "matchup": "PHX vs. POR",
+            "is_home": true,
+            "wl": "L",
+            "pts": 110,
+            "opp_pts": 114,
+            "pts_1h": 62,
+            "opp_pts_1h": 65,
+            "q1": 33,
+            "q2": 29,
+            "q3": 20,
+            "q4": 28,
+            "opp_q1": 31,
+            "opp_q2": 34,
+            "opp_q3": 18,
+            "opp_q4": 31
+          },
+          {
+            "game_id": "0022501196",
+            "date": "2026-04-12",
+            "matchup": "PHX @ OKC",
+            "is_home": false,
+            "wl": "W",
+            "pts": 135,
+            "opp_pts": 103,
+            "pts_1h": 70,
+            "opp_pts_1h": 52,
+            "q1": 37,
+            "q2": 33,
+            "q3": 34,
+            "q4": 31,
+            "opp_q1": 19,
+            "opp_q2": 33,
+            "opp_q3": 25,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0022501185",
+            "date": "2026-04-10",
+            "matchup": "PHX @ LAL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 73,
+            "opp_pts": 101,
+            "pts_1h": 48,
+            "opp_pts_1h": 57,
+            "q1": 24,
+            "q2": 24,
+            "q3": 16,
+            "q4": 9,
+            "opp_q1": 33,
+            "opp_q2": 24,
+            "opp_q3": 24,
+            "opp_q4": 20
+          },
+          {
+            "game_id": "0022501164",
+            "date": "2026-04-08",
+            "matchup": "PHX vs. DAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 107,
+            "pts_1h": 61,
+            "opp_pts_1h": 53,
+            "q1": 33,
+            "q2": 28,
+            "q3": 27,
+            "q4": 24,
+            "opp_q1": 29,
+            "opp_q2": 24,
+            "opp_q3": 27,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501157",
+            "date": "2026-04-07",
+            "matchup": "PHX vs. HOU",
+            "is_home": true,
+            "wl": "L",
+            "pts": 105,
+            "opp_pts": 119,
+            "pts_1h": 57,
+            "opp_pts_1h": 54,
+            "q1": 37,
+            "q2": 20,
+            "q3": 27,
+            "q4": 21,
+            "opp_q1": 21,
+            "opp_q2": 33,
+            "opp_q3": 27,
+            "opp_q4": 38
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 106.8,
+          "pts_max": 135,
+          "pts_min": 73,
+          "pts_1h_avg": 56.1,
+          "pts_1h_max": 70,
+          "pts_1h_min": 44,
+          "wins": 3,
+          "wins_1h": 4,
+          "q1": 30.8,
+          "q2": 25.4,
+          "q3": 24.2,
+          "q4": 24.2,
+          "opp_q1": 26.6,
+          "opp_q2": 30.4,
+          "opp_q3": 26.5,
+          "opp_q4": 26.4
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Devin Booker",
+              "val": 26.1
+            },
+            {
+              "name": "Dillon Brooks",
+              "val": 20.2
+            }
+          ],
+          "reb": [
+            {
+              "name": "Mark Williams",
+              "val": 8.0
+            },
+            {
+              "name": "Oso Ighodaro",
+              "val": 5.1
+            }
+          ],
+          "ast": [
+            {
+              "name": "Devin Booker",
+              "val": 6.0
+            },
+            {
+              "name": "Collin Gillespie",
+              "val": 4.6
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Jordan Goodwin",
+            "status": "Expected to be out until at least Apr 29"
+          },
+          {
+            "player": "Mark Williams",
+            "status": "Expected to be out until at least Apr 29"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-27",
+          "t1_pts": 131,
+          "t2_pts": 122,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-25",
+          "t1_pts": 121,
+          "t2_pts": 109,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-22",
+          "t1_pts": 120,
+          "t2_pts": 107,
+          "t1_1h": 65,
+          "t2_1h": 57
+        },
+        {
+          "date": "2026-04-19",
+          "t1_pts": 119,
+          "t2_pts": 84,
+          "t1_1h": 65,
+          "t2_1h": 44
+        },
+        {
+          "date": "2026-04-12",
+          "t1_pts": 103,
+          "t2_pts": 135,
+          "t1_1h": 52,
+          "t2_1h": 70
+        },
+        {
+          "date": "2026-02-11",
+          "t1_pts": 136,
+          "t2_pts": 109,
+          "t1_1h": 75,
+          "t2_1h": 52
+        },
+        {
+          "date": "2026-01-04",
+          "t1_pts": 105,
+          "t2_pts": 108,
+          "t1_1h": 49,
+          "t2_1h": 42
+        },
+        {
+          "date": "2025-12-10",
+          "t1_pts": 138,
+          "t2_pts": 89,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2025-11-28",
+          "t1_pts": 123,
+          "t2_pts": 119,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 121.8,
+        "visitor_avg": 109.1
+      }
+    },
+    {
+      "game_id": "0042500175",
+      "api_date": "2026-04-29",
+      "game_time": "TBD",
+      "home": {
+        "id": 1610612747,
+        "name": "Los Angeles Lakers",
+        "last10_logs": [
+          {
+            "game_id": "0042500174",
+            "date": "2026-04-26",
+            "matchup": "LAL @ HOU",
+            "is_home": false,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 115,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500173",
+            "date": "2026-04-24",
+            "matchup": "LAL @ HOU",
+            "is_home": false,
+            "wl": "W",
+            "pts": 112,
+            "opp_pts": 108,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500172",
+            "date": "2026-04-21",
+            "matchup": "LAL vs. HOU",
+            "is_home": true,
+            "wl": "W",
+            "pts": 101,
+            "opp_pts": 94,
+            "pts_1h": 54,
+            "opp_pts_1h": 51,
+            "q1": 33,
+            "q2": 21,
+            "q3": 21,
+            "q4": 26,
+            "opp_q1": 26,
+            "opp_q2": 25,
+            "opp_q3": 17,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0042500171",
+            "date": "2026-04-18",
+            "matchup": "LAL vs. HOU",
+            "is_home": true,
+            "wl": "W",
+            "pts": 107,
+            "opp_pts": 98,
+            "pts_1h": 50,
+            "opp_pts_1h": 48,
+            "q1": 33,
+            "q2": 17,
+            "q3": 25,
+            "q4": 32,
+            "opp_q1": 29,
+            "opp_q2": 19,
+            "opp_q3": 18,
+            "opp_q4": 32
+          },
+          {
+            "game_id": "0022501198",
+            "date": "2026-04-12",
+            "matchup": "LAL vs. UTA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 131,
+            "opp_pts": 107,
+            "pts_1h": 62,
+            "opp_pts_1h": 45,
+            "q1": 32,
+            "q2": 30,
+            "q3": 33,
+            "q4": 36,
+            "opp_q1": 22,
+            "opp_q2": 23,
+            "opp_q3": 29,
+            "opp_q4": 33
+          },
+          {
+            "game_id": "0022501185",
+            "date": "2026-04-10",
+            "matchup": "LAL vs. PHX",
+            "is_home": true,
+            "wl": "W",
+            "pts": 101,
+            "opp_pts": 73,
+            "pts_1h": 57,
+            "opp_pts_1h": 48,
+            "q1": 33,
+            "q2": 24,
+            "q3": 24,
+            "q4": 20,
+            "opp_q1": 24,
+            "opp_q2": 24,
+            "opp_q3": 16,
+            "opp_q4": 9
+          },
+          {
+            "game_id": "0022501170",
+            "date": "2026-04-09",
+            "matchup": "LAL @ GSW",
+            "is_home": false,
+            "wl": "W",
+            "pts": 119,
+            "opp_pts": 103,
+            "pts_1h": 53,
+            "opp_pts_1h": 49,
+            "q1": 28,
+            "q2": 25,
+            "q3": 29,
+            "q4": 37,
+            "opp_q1": 23,
+            "opp_q2": 26,
+            "opp_q3": 24,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501155",
+            "date": "2026-04-07",
+            "matchup": "LAL vs. OKC",
+            "is_home": true,
+            "wl": "L",
+            "pts": 87,
+            "opp_pts": 123,
+            "pts_1h": 47,
+            "opp_pts_1h": 65,
+            "q1": 27,
+            "q2": 20,
+            "q3": 15,
+            "q4": 25,
+            "opp_q1": 34,
+            "opp_q2": 31,
+            "opp_q3": 28,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501140",
+            "date": "2026-04-05",
+            "matchup": "LAL @ DAL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 128,
+            "opp_pts": 134,
+            "pts_1h": 61,
+            "opp_pts_1h": 67,
+            "q1": 30,
+            "q2": 31,
+            "q3": 36,
+            "q4": 31,
+            "opp_q1": 41,
+            "opp_q2": 26,
+            "opp_q3": 40,
+            "opp_q4": 27
+          },
+          {
+            "game_id": "0022501116",
+            "date": "2026-04-02",
+            "matchup": "LAL @ OKC",
+            "is_home": false,
+            "wl": "L",
+            "pts": 96,
+            "opp_pts": 139,
+            "pts_1h": 51,
+            "opp_pts_1h": 82,
+            "q1": 21,
+            "q2": 30,
+            "q3": 16,
+            "q4": 29,
+            "opp_q1": 44,
+            "opp_q2": 38,
+            "opp_q3": 30,
+            "opp_q4": 27
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 107.8,
+          "pts_max": 131,
+          "pts_min": 87,
+          "pts_1h_avg": 54.4,
+          "pts_1h_max": 62,
+          "pts_1h_min": 47,
+          "wins": 6,
+          "wins_1h": 5,
+          "q1": 29.6,
+          "q2": 24.8,
+          "q3": 24.9,
+          "q4": 29.5,
+          "opp_q1": 30.4,
+          "opp_q2": 26.5,
+          "opp_q3": 25.2,
+          "opp_q4": 26.8
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Luka Dončić",
+              "val": 33.5
+            },
+            {
+              "name": "Austin Reaves",
+              "val": 23.3
+            }
+          ],
+          "reb": [
+            {
+              "name": "Deandre Ayton",
+              "val": 8.0
+            },
+            {
+              "name": "Luka Dončić",
+              "val": 7.7
+            }
+          ],
+          "ast": [
+            {
+              "name": "Luka Dončić",
+              "val": 8.3
+            },
+            {
+              "name": "LeBron James",
+              "val": 7.2
+            }
+          ]
+        },
+        "injuries": []
+      },
+      "visitor": {
+        "id": 1610612745,
+        "name": "Houston Rockets",
+        "last10_logs": [
+          {
+            "game_id": "0042500174",
+            "date": "2026-04-26",
+            "matchup": "HOU vs. LAL",
+            "is_home": true,
+            "wl": "W",
+            "pts": 115,
+            "opp_pts": 96,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500173",
+            "date": "2026-04-24",
+            "matchup": "HOU vs. LAL",
+            "is_home": true,
+            "wl": "L",
+            "pts": 108,
+            "opp_pts": 112,
+            "pts_1h": 0,
+            "opp_pts_1h": 0,
+            "q1": 0,
+            "q2": 0,
+            "q3": 0,
+            "q4": 0,
+            "opp_q1": 0,
+            "opp_q2": 0,
+            "opp_q3": 0,
+            "opp_q4": 0
+          },
+          {
+            "game_id": "0042500172",
+            "date": "2026-04-21",
+            "matchup": "HOU @ LAL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 94,
+            "opp_pts": 101,
+            "pts_1h": 51,
+            "opp_pts_1h": 54,
+            "q1": 26,
+            "q2": 25,
+            "q3": 17,
+            "q4": 26,
+            "opp_q1": 33,
+            "opp_q2": 21,
+            "opp_q3": 21,
+            "opp_q4": 26
+          },
+          {
+            "game_id": "0042500171",
+            "date": "2026-04-18",
+            "matchup": "HOU @ LAL",
+            "is_home": false,
+            "wl": "L",
+            "pts": 98,
+            "opp_pts": 107,
+            "pts_1h": 48,
+            "opp_pts_1h": 50,
+            "q1": 29,
+            "q2": 19,
+            "q3": 18,
+            "q4": 32,
+            "opp_q1": 33,
+            "opp_q2": 17,
+            "opp_q3": 25,
+            "opp_q4": 32
+          },
+          {
+            "game_id": "0022501194",
+            "date": "2026-04-12",
+            "matchup": "HOU vs. MEM",
+            "is_home": true,
+            "wl": "W",
+            "pts": 132,
+            "opp_pts": 101,
+            "pts_1h": 66,
+            "opp_pts_1h": 45,
+            "q1": 32,
+            "q2": 34,
+            "q3": 34,
+            "q4": 32,
+            "opp_q1": 26,
+            "opp_q2": 19,
+            "opp_q3": 26,
+            "opp_q4": 30
+          },
+          {
+            "game_id": "0022501178",
+            "date": "2026-04-10",
+            "matchup": "HOU vs. MIN",
+            "is_home": true,
+            "wl": "L",
+            "pts": 132,
+            "opp_pts": 136,
+            "pts_1h": 73,
+            "opp_pts_1h": 69,
+            "q1": 36,
+            "q2": 37,
+            "q3": 33,
+            "q4": 26,
+            "opp_q1": 37,
+            "opp_q2": 32,
+            "opp_q3": 34,
+            "opp_q4": 33
+          },
+          {
+            "game_id": "0022501169",
+            "date": "2026-04-09",
+            "matchup": "HOU vs. PHI",
+            "is_home": true,
+            "wl": "W",
+            "pts": 113,
+            "opp_pts": 102,
+            "pts_1h": 73,
+            "opp_pts_1h": 56,
+            "q1": 35,
+            "q2": 38,
+            "q3": 23,
+            "q4": 17,
+            "opp_q1": 26,
+            "opp_q2": 30,
+            "opp_q3": 17,
+            "opp_q4": 29
+          },
+          {
+            "game_id": "0022501157",
+            "date": "2026-04-07",
+            "matchup": "HOU @ PHX",
+            "is_home": false,
+            "wl": "W",
+            "pts": 119,
+            "opp_pts": 105,
+            "pts_1h": 54,
+            "opp_pts_1h": 57,
+            "q1": 21,
+            "q2": 33,
+            "q3": 27,
+            "q4": 38,
+            "opp_q1": 37,
+            "opp_q2": 20,
+            "opp_q3": 27,
+            "opp_q4": 21
+          },
+          {
+            "game_id": "0022501142",
+            "date": "2026-04-05",
+            "matchup": "HOU @ GSW",
+            "is_home": false,
+            "wl": "W",
+            "pts": 117,
+            "opp_pts": 116,
+            "pts_1h": 55,
+            "opp_pts_1h": 53,
+            "q1": 26,
+            "q2": 29,
+            "q3": 37,
+            "q4": 25,
+            "opp_q1": 31,
+            "opp_q2": 22,
+            "opp_q3": 29,
+            "opp_q4": 34
+          },
+          {
+            "game_id": "0022501124",
+            "date": "2026-04-03",
+            "matchup": "HOU vs. UTA",
+            "is_home": true,
+            "wl": "W",
+            "pts": 140,
+            "opp_pts": 106,
+            "pts_1h": 69,
+            "opp_pts_1h": 50,
+            "q1": 34,
+            "q2": 35,
+            "q3": 38,
+            "q4": 33,
+            "opp_q1": 22,
+            "opp_q2": 28,
+            "opp_q3": 28,
+            "opp_q4": 28
+          }
+        ],
+        "stats": {
+          "games_count": 10,
+          "pts_avg": 116.8,
+          "pts_max": 140,
+          "pts_min": 94,
+          "pts_1h_avg": 61.1,
+          "pts_1h_max": 73,
+          "pts_1h_min": 48,
+          "wins": 6,
+          "wins_1h": 5,
+          "q1": 29.9,
+          "q2": 31.2,
+          "q3": 28.4,
+          "q4": 28.6,
+          "opp_q1": 30.6,
+          "opp_q2": 23.6,
+          "opp_q3": 25.9,
+          "opp_q4": 29.1
+        },
+        "leaders": {
+          "pts": [
+            {
+              "name": "Kevin Durant",
+              "val": 26.0
+            },
+            {
+              "name": "Alperen Sengun",
+              "val": 20.4
+            }
+          ],
+          "reb": [
+            {
+              "name": "Alperen Sengun",
+              "val": 8.9
+            },
+            {
+              "name": "Steven Adams",
+              "val": 8.6
+            }
+          ],
+          "ast": [
+            {
+              "name": "Alperen Sengun",
+              "val": 6.2
+            },
+            {
+              "name": "Amen Thompson",
+              "val": 5.3
+            }
+          ]
+        },
+        "injuries": [
+          {
+            "player": "Kevin Durant",
+            "status": "Expected to be out until at least Apr 29"
+          },
+          {
+            "player": "Steven Adams",
+            "status": "Expected to be out until at least Oct 1"
+          },
+          {
+            "player": "Fred VanVleet",
+            "status": "Expected to be out until at least Jun 1"
+          }
+        ]
+      },
+      "h2h_logs": [
+        {
+          "date": "2026-04-26",
+          "t1_pts": 96,
+          "t2_pts": 115,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-24",
+          "t1_pts": 112,
+          "t2_pts": 108,
+          "t1_1h": 0,
+          "t2_1h": 0
+        },
+        {
+          "date": "2026-04-21",
+          "t1_pts": 101,
+          "t2_pts": 94,
+          "t1_1h": 54,
+          "t2_1h": 51
+        },
+        {
+          "date": "2026-04-18",
+          "t1_pts": 107,
+          "t2_pts": 98,
+          "t1_1h": 50,
+          "t2_1h": 48
+        },
+        {
+          "date": "2026-03-18",
+          "t1_pts": 124,
+          "t2_pts": 116,
+          "t1_1h": 67,
+          "t2_1h": 55
+        },
+        {
+          "date": "2026-03-16",
+          "t1_pts": 100,
+          "t2_pts": 92,
+          "t1_1h": 51,
+          "t2_1h": 57
+        },
+        {
+          "date": "2025-12-25",
+          "t1_pts": 96,
+          "t2_pts": 119,
+          "t1_1h": 0,
+          "t2_1h": 0
+        }
+      ],
+      "h2h_stats": {
+        "home_avg": 105.1,
+        "visitor_avg": 106.0
+      }
+    }
+  ]
 }
